@@ -40,15 +40,17 @@ The name (and in particular the throne) was also adopted by the earliest dynasti
 
 # Recent Family Tree
 
-Emperor Dominus Val'Elsir (Grandfather)
+Emperor Galamar Ra'Ern (Great Grandfather) (4th/1st Dynasty king)
 
-Emperor Anryr Val'Elsir (Father)
+Emperor Dominus Val'Elsir (Grandfather) (2nd Dynasty King)
 
-Emperor Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal)
+Emperor Anryr Val'Elsir (Father) (3rd Dynasty King)
+
+Emperor Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal) (4th Dynasty King)
 
 # Children
 
-Prince Envar Val'Elsir (Emperor Envar Ra'Ern - Crowned 63022 UT)
+Prince Envar Val'Elsir (Emperor Envar Ra'Ern - Crowned 63022 UT) (5th Dynasty King)
 
 Prince Deuzulus Val'Elsir
 
