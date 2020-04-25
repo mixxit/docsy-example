@@ -38,6 +38,18 @@ Val'Elsir is believed to be a word that represents the city of [Cal'Drin](https:
 
 The name (and in particular the throne) was adopted by the earliest dynasties of the Mysmaal many years after the fall of the Caerthian Empire
 
+# Recent Family Tree
+
+King Dominus Val'Elsir
+ |
+King Anryr Val'Elsir
+ |
+King Elaril Val'Elsir - Iluna Val'Elsir (Born D'Raal)
+ |
+Prince Envar Val'Elsir
+Princess Lenya Val'Elsir
+Prince Deuzulus Val'Elsir
+
 # Deuzulus
 
 It is believed that Deuzulus was once a prince of the Caerthian Empire and also carries the Val'Elsir name, though he has long since discarded any of his former self since his elevation to God of Hate
