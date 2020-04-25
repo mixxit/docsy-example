@@ -14,7 +14,7 @@ Emperor Val'Esir
 
 Emperor Elaril Val'Elsir
 
-Ruler of the Caerthian Empire during the Mythological Age and the Time of Crisis, Emperor Val'Elsir is a pure blood Sun Elf of the lands of Qylia. He oversaw a bitter rivalry with the Aerindal Kindgdoms of the North, invading them twice during his leadership
+Ruler of the [Caerthian Empire](https://www.fallofanempire.com/docs/races/caerthian/) during the Mythological Age and the Time of Crisis, Emperor Elaril Val'Elsir is a pure blood Sun Elf of the lands of [Qylia](https://www.fallofanempire.com/docs/locations/qylia/). He oversaw a bitter rivalry with the Aerindal Kindgdoms of the North, invading them twice during his leadership
 
 # Noteable Campaigns
 
@@ -34,7 +34,7 @@ Emperor Val'Elsir was murdered by the lich Shai'Din in the final moments of the 
 
 # Family Name
 
-Val'Elsir is believed to be a word that represents the city of Cal'Drin and was discovered by the Caerthians in the subterranean areas of the appropriated city. 
+Val'Elsir is believed to be a word that represents the city of [Cal'Drin](https://www.fallofanempire.com/docs/locations/qylia/caldrin/) and was discovered by the Caerthians in the subterranean areas of the appropriated city. 
 
 The name (and in particular the throne) was adopted by the earliest dynasties of the Mysmaal many years after the fall of the Caerthian Empire
 
