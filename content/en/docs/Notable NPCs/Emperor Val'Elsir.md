@@ -28,7 +28,7 @@ It was during this period that the Aerindal drifted into the pages of history, h
 
 [Caerthian Invasion of Amaria](https://www.fallofanempire.com/docs/events/the-caerthian-invasion/)
 
-## Death
+# Death
 
 Emperor Val'Elsir was murdered by the lich Shai'Din in the final moments of the Eindel siege during The Caerthian Invasion of Amaria in 1234 P-OE (196982 UT)
 
@@ -46,7 +46,7 @@ Emperor Anryr Val'Elsir (Father)
 
 Emperor Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal)
 
-## Children
+# Children
 
 Prince Envar Val'Elsir (Emperor Envar Ra'Ern - Crowned 63022 UT)
 
