@@ -40,14 +40,18 @@ The name (and in particular the throne) was adopted by the earliest dynasties of
 
 # Recent Family Tree
 
-King Dominus Val'Elsir
- |
-King Anryr Val'Elsir
- |
-King Elaril Val'Elsir - Iluna Val'Elsir (Born D'Raal)
- |
+King Dominus Val'Elsir (Grandfather)
+
+King Anryr Val'Elsir (Father)
+
+King Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal)
+
+## Children
+
 Prince Envar Val'Elsir
+
 Princess Lenya Val'Elsir
+
 Prince Deuzulus Val'Elsir
 
 # Deuzulus
