@@ -40,4 +40,4 @@ The name (and in particular the throne) was adopted by the earliest dynasties of
 
 # Deuzulus
 
-It is believed that Deuzulus was once a prince of the Caethian Empire and also carries the Val'Elsir name, though he has long since discarded any of his former self since his elevation to God of Hate
+It is believed that Deuzulus was once a prince of the Caerthian Empire and also carries the Val'Elsir name, though he has long since discarded any of his former self since his elevation to God of Hate
