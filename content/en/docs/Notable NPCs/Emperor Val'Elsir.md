@@ -34,25 +34,25 @@ Emperor Val'Elsir was murdered by the lich Shai'Din in the final moments of the 
 
 # Family Name
 
-Val'Elsir is believed to be a word that represents the city of [Cal'Drin](https://www.fallofanempire.com/docs/locations/qylia/caldrin/) and was discovered by the Caerthians in the subterranean areas of the appropriated city. 
+Val'Elsir is believed to be a word that represents the city of [Cal'Drin](https://www.fallofanempire.com/docs/locations/qylia/caldrin/) and was discovered by the Caerthians in the subterranean areas of the appropriated city. The dynastic name was first taken by Emperor Galamar Ra'Ern and stayed in the family until Prince Envar Val'Elsir who reverted the suranme back to Ra'Ern
 
-The name (and in particular the throne) was adopted by the earliest dynasties of the Mysmaal many years after the fall of the Caerthian Empire
+The name (and in particular the throne) was also adopted by the earliest dynasties of the Mysmaal many years after the fall of the Caerthian Empire
 
 # Recent Family Tree
 
-King Dominus Val'Elsir (Grandfather)
+Emperor Dominus Val'Elsir (Grandfather)
 
-King Anryr Val'Elsir (Father)
+Emperor Anryr Val'Elsir (Father)
 
-King Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal)
+Emperor Elaril Val'Elsir & Queen Iluna Val'Elsir (Born D'Raal)
 
 ## Children
 
-Prince Envar Val'Elsir
-
-Princess Lenya Val'Elsir
+Prince Envar Val'Elsir (Emperor Envar Ra'Ern - Crowned 63022 UT)
 
 Prince Deuzulus Val'Elsir
+
+Princess Lenya Val'Elsir
 
 # Deuzulus
 
