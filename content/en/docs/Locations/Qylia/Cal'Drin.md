@@ -24,7 +24,7 @@ In particular the throne that was located in the ruins of Val'Elsir was adopted 
 
 Historic documents stored within the catacombs associate the original city (Val'Elsir) as being inhabitted by a race which worshipped The Weaver. It is known that the city was one of many that sat within a Moon that orbitted an unknown planet. The moon was in perpetual darkness due to it's peculiar orbit around the planet and it's people were known to be extremely gifted magic users who never saw sunlight.
 
-During the events of Genesis it is believed The Weaver brought the Moon crashing through space and into the planet of Solinia causing massive devestation to the early world and it's people. Very few members of the race survived, the city of Val'Elsir is one remaining artifact of the this lost people.
+During the events of [Genesis](https://www.fallofanempire.com/docs/stories/genesis/) it is believed The Weaver brought the Moon crashing through space and into the planet of Solinia causing massive devastation to the early world and it's people. Very few members of the race survived, the city of Val'Elsir is one remaining artifact of the this lost people.
 
 Some tales say that the deep hole in which The Anchor which binds the past and present lays is directly over the massive hole caused by this moon colliding with Solinia
 
