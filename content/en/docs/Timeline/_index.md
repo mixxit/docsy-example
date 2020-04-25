@@ -482,22 +482,6 @@ Timeline
     </div>
     <div class="timelinecontainer right">
         <div class="content">
-            <h2>2397 BC (63897 UT)</h2>
-            <h3>Emperor Dominus Ra'Ern II is crowned</h3>
-            <p><small>Coronation</small></p>
-            <p></p>
-        </div>
-    </div>
-    <div class="timelinecontainer left">
-        <div class="content">
-            <h2>2401 BC (63901 UT)</h2>
-            <h3>The Mysmaal are created by Somnus at Cal'Drin</h3>
-            <p><small>War</small></p>
-            <p></p>
-        </div>
-    </div>
-    <div class="timelinecontainer right">
-        <div class="content">
             <h2>2403 BC (63903 UT)</h2>
             <h3>Ferrelux falls</h3>
             <p><small></small></p>
@@ -528,6 +512,54 @@ Timeline
             <p></p>
         </div>
     </div>
+    <div class="timelinecontainer right">
+        <div class="content">
+            <h2>4200 BC (65700 UT)</h2>
+            <h3>The Oshira are created</h3>
+            <p><small></small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>5805 BC (67305 UT)</h2>
+            <h3>The Oshira master the art of teleportation</h3>
+            <p><small></small></p>
+            <p>The Oshira discover the art of Translocation and begin to inhabit most regions of the world</p>
+        </div>
+    </div>
+    <div class="timelinecontainer right">
+        <div class="content">
+            <h2>5805 BC (67305 UT)</h2>
+            <h3>The Oshira master the art of teleportation</h3>
+            <p><small></small></p>
+            <p>The Oshira discover the art of Translocation and begin to inhabit most regions of the world</p>
+        </div>
+    </div>
+    <div class="timelinecontainer right">
+        <div class="content">
+            <h2>5981 BC (67481 UT)</h2>
+            <h3>The Oshira invade the Planes of the Gods</h3>
+            <p><small></small></p>
+            <p>The Oshira begin a campaign to conquer all the Planes of the Gods</p>
+        </div>
+    </div>
+    <div class="timelinecontainer right">
+        <div class="content">
+            <h2>5992 BC (67492 UT)</h2>
+            <h3>Emperor Dominus Ra'Ern II is crowned</h3>
+            <p><small>Coronation</small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>6000 BC (67500 UT)</h2>
+            <h3>The Mysmaal are created by Somnus at Cal'Drin</h3>
+            <p><small>War</small></p>
+            <p></p>
+        </div>
+     </div>
      <div class="timelinecontainer right">
         <div class="content">
             <h2>7836 BC (69336 UT)</h2>
