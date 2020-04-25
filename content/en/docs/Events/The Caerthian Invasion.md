@@ -14,6 +14,10 @@ The Caerthian Invasion
 
 The Caerthian Invasion
 
+# Event Date
+
+1234 P-OE (196982 UT) - Time of Crisis
+
 # Overview
 
 Beginning 196982 UT (1234 P-OE), the Caethian Invasion was one of the fastest and largest land and sea based military campaigns ever witnessed in the lands of Amaria. The final battle saw the death of many important figures, including Emperor Val'Elsir, ruler of the Caerthian Empire
