@@ -560,6 +560,14 @@ Timeline
             <p></p>
         </div>
      </div>
+     <div class="timelinecontainer left">
+        <div class="content">
+            <h2>6000 BC (67500 UT)</h2>
+            <h3>Mysmaal/Oshira War of the Planes</h3>
+            <p><small>War</small></p>
+            <p>The Mysmaal begin a 50000 year long war with the Oshira in the Planes</p>
+        </div>
+     </div>
      <div class="timelinecontainer right">
         <div class="content">
             <h2>7836 BC (69336 UT)</h2>
@@ -606,6 +614,14 @@ Timeline
             <h3>The world is habitable again</h3>
             <p><small>Era beginning/end</small></p>
             <p>Life on the planet has once again begun to grow</p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>30954 ME (151490 UT)</h2>
+            <h3>The Mysmaal lose the battle of the Plane of Air</h3>
+            <p><small>Birth/death</small></p>
+            <p>The Mysmaal fight a war with the Oshira in the Plane of Air</p>
         </div>
     </div>
     <div class="timelinecontainer left">
