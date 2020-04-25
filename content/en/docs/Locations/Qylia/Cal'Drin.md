@@ -18,7 +18,13 @@ Cal'Drin was particularly important in the history of the Mysmaal as it is said 
 
 Scholars believe that Cal'Drin's original name was Val'Elsir and belongs to a race of unknown origin due to it's unique gothic style which was later adopted by the Mysmaal on their return from the Plane of Shadow 
 
-In particular the throne that was located in the ruins of Val'Elsir was adopted as a symbol of authority for the newly formed dynasty that would rule over the Mysmaal Kingdom following their seperation from their original Caerthian brothers 
+In particular the throne that was located in the ruins of Val'Elsir was adopted as a symbol of authority for the Caerthians and the newly formed Mysmaal that would rule over theKingdom following their seperation from their original Caerthian brothers 
+
+## Discovery
+
+Cal'Drin was discovered during the time of Emperor Galamar Ra'Ern in the far eastern lands of the Caerthians
+
+It was not only an important discovery for historical purposes, but the magical marvels it contained. So great was some of its artifacts they were taken by the Emperor himself. For the first year Galamar took his throne to Cal'Drin and sat atop it, claiming his new name to be Emperor Val'Elsir and being the first on Solinia to sit on its ancient throne. This name stayed within the family for the next 4 generations, after the imperial rule by Emperor Envar Val'Elsir, after which the name reverted back to the Ra'Ern dynasty
 
 **Origins**
 
