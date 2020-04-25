@@ -26,7 +26,7 @@ Historic documents stored within the catacombs associate the original city (Val'
 
 During the events of [Genesis](https://www.fallofanempire.com/docs/stories/genesis/) it is believed The Weaver brought the Moon crashing through space and into the planet of Solinia causing massive devastation to the early world and it's people. Very few members of the race survived, the city of Val'Elsir is one remaining artifact of the this lost people.
 
-Some tales say that the deep hole in which The Anchor which binds the past and present lays is directly over the massive hole caused by this moon colliding with Solinia
+Some tales say that the deep hole in which The Anchor which binds the past and present is directly over the massive hole caused by this moon colliding with Solinia
 
 **Notable Figures**
 
