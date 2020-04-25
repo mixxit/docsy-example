@@ -434,6 +434,22 @@ Timeline
     </div>
     <div class="timelinecontainer right">
         <div class="content">
+            <h2>1522 BC (63022 UT)</h2>
+            <h3>Caerthian Emperor Elaril Val'Elsir dies</h3>
+            <p><small>Life, Death</small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>1522 BC (63022 UT)</h2>
+            <h3>Prince Prince Envar Val'Elsir is crowned Emperor Ra'Ern</h3>
+            <p><small>Coronation</small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer right">
+        <div class="content">
             <h2>1750 BC (63250 UT)</h2>
             <h3>Akakios is born</h3>
             <p><small></small></p>
@@ -461,6 +477,22 @@ Timeline
             <h2>2030 BC (63530 UT)</h2>
             <h3>Llys Don is formed</h3>
             <p><small></small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer right">
+        <div class="content">
+            <h2>2397 BC (63897 UT)</h2>
+            <h3>Emperor Dominus Ra'Ern II is crowned</h3>
+            <p><small>Coronation</small></p>
+            <p></p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>2401 BC (63901 UT)</h2>
+            <h3>The Mysmaal are created by Somnus at Cal'Drin</h3>
+            <p><small>War</small></p>
             <p></p>
         </div>
     </div>
@@ -542,6 +574,14 @@ Timeline
             <h3>The world is habitable again</h3>
             <p><small>Era beginning/end</small></p>
             <p>Life on the planet has once again begun to grow</p>
+        </div>
+    </div>
+    <div class="timelinecontainer left">
+        <div class="content">
+            <h2>30954 ME (151490 UT)</h2>
+            <h3>Zephyr is murdered</h3>
+            <p><small>Birth/death</small></p>
+            <p>Zephyr is murdered by Sl'Vastra at the bidding of Deuzulus</p>
         </div>
     </div>
 </div>
