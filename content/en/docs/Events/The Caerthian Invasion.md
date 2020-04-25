@@ -30,7 +30,7 @@ It was during this campaign that Emperor Val'Elsir took the advice of a mysterio
 
 # Major Figures
 
-The Caerthian Emperor,
+[The Caerthian Emperor](https://www.fallofanempire.com/docs/notable-npcs/emperor-valelsir/),
 
 Grand Marshal Karth,
 
