@@ -1,7 +1,7 @@
 
 ---
 title: "Keladun"
-linkTitle: "Keladun (Playable)"
+linkTitle: "Keladun"
 weight: 8
 date: 2017-01-04
 description: >
@@ -14,30 +14,27 @@ Keladun
 
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
-<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">{{{Name}}}</th></tr>
+<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">Keladun</th></tr>
 <tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/keladun.png" width="250" height="461"></td></tr>
 <tr><th colspan="2" class="color1"> Race</th></tr>
-<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> {{{Name}}}</td></tr>
-<tr><td> <b>Common Name</b></td><td> {{{commonname}}}</td></tr>
-<tr><td> <b>Starting Stats</b></td><td> {{{Starting Stats}}}</td></tr>
-<tr><td> <b>Professions</b></td><td> {{{Classes}}}</td></tr>
-<tr><td> <b>Alliance</b></td><td> {{{alliance}}}</td></tr>
-<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td> {{{alignment}}}</td></tr>
-<tr><td> <b>Language</b></td><td> [[Languages#{{{languages}}}|{{{languages}}}]]</td></tr>
-<tr><td> <b>Height</b></td><td> {{{height}}}</td></tr>
-<tr><td> <b>Skincolor</b></td><td> {{{skincolor}}}</td></tr>
-<tr><td> <b>Haircolor</b></td><td> {{{haircolor}}}</td></tr>
-<tr><td> <b>Lifespan</b></td><td> {{{lifespan}}}</td></tr>
-<tr><td> <b>Diet</b></td><td> {{{diet}}}</td></tr>
-<tr><td> <b>Distinctions</b></td><td> {{{distinctions}}}</td></tr>
-<tr><td> <b>God worshipped</b></td><td> [[Gods#{{{gods}}}|{{{gods}}}]]</td></tr>
+<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;">Keladun</td></tr>
+<tr><td> <b>Common Name</b></td><td>Keladun, Dwarf</td></tr>
+<tr><td> <b>Starting Stats</b></td>STR 90 STA 90 AGI 80 DEX 100 INT 60 WIS 83 CHA 45<td></td></tr>
+<tr><td> <b>Professions</b></td><td>WAR CLE ROG PAL MAG</td></tr>
+<tr><td> <b>Alliance</b></td><td>None</td></tr>
+<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>Good</td></tr>
+<tr><td> <b>Language</b></td><td>Keladun</td></tr>
+<tr><td> <b>Height</b></td><td>3.5'-4.5'</td></tr>
+<tr><td> <b>Skincolor</b></td><td>As varied as humanse</td></tr>
+<tr><td> <b>Haircolor</b></td><td>Browns and black, aging to grey</td></tr>
+<tr><td> <b>Lifespan</b></td><td>100-200 </td></tr>
+<tr><td> <b>Diet</b></td><td>Omnivore</td></tr>
+<tr><td> <b>Distinctions</b></td><td>Stout and beardy</td></tr>
+<tr><td> <b>God worshipped</b></td><td>Kaza'Thul</td></tr>
 </tbody>
 </table>
 
 A dwarven like race from the Lands of Qylia. Friendly and devoted to mining and Trading. Worshippers of Kaza-Thul the God of the Deep
-## Playable Race
-
-This is currently a playable race
 
 # Basic information
 
@@ -125,6 +122,7 @@ Deity: Kaza'Thul
 Ruler: Thoron Stormbreaker 
 
 # Skins
+
 Male: https://www.fallofanempire.com/img/skins/Male_Keladun.png
 
 Female: https://www.fallofanempire.com/img/skins/Female_Keladun.png
