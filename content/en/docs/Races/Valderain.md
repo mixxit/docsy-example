@@ -36,7 +36,7 @@ Valderain
 
 # Introduction
 
-The Valderain are a human like race from the Mythalogical Age that worship the Oceans. The built a large city paradises on islands throughout the seas of Qylia. They were seafaring, heavily orientated on trade and had many sub settlements and trade towns across the continents. 
+The Valderain are a human like race from the Mythological Age that worship the Oceans. They built large paradises cities on islands throughout the seas of Qylia. They were naturally seafaring, heavily orientated on trade and had many sub settlements and trade towns across the continents. 
 
 It is not uncommon for small Valderain villages to have sprung up completely out at sea from the remnents of wrecks of boats and small outcroppings of rocks
 
