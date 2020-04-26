@@ -24,7 +24,7 @@ It is believed Val'Elsir oversaw a propagander campaign forcing the Ophidians to
 
 It was during this period that the Aerindal drifted into the pages of history, had it not been for the return of future travellers into the past, the Aerindal would never have been seen again
 
-## The Caerthians Invasion of Amaria
+## The Caerthian Invasion of Amaria
 
 [Caerthian Invasion of Amaria](https://www.fallofanempire.com/docs/events/the-caerthian-invasion/)
 
