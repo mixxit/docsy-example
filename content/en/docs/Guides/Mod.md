@@ -114,6 +114,12 @@ If you do not do this you will see a glow bug when targetting
 
 You should now be ready to follow our New Player Guide - https://www.fallofanempire.com/docs/guides/new-player-guide/
 
+# Optional Extras
+
+More Player Models: 
+
+https://www.fallofanempire.com/files/MorePlayerModels_1.14.4-12Dec19snapshot.jar
+
 # Need more help?
 
 If you need any more help visit the #Support channel on our discord.
