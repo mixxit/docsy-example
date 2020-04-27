@@ -98,7 +98,7 @@ Enruel the Ascendant - Rules over the Plane of Secrets (Principal God of Knowled
 
 Auroris the Planeshifter - Rules over the Plane of Sun (Principal God of the Vishim race)
 
-Alzagoth the Reaper - Rules over the Plane of Death
+Alzagoth the Reaper - Rules over the Plane of Death (Principal God of the Gobel)
 
 Alorn the Artisan - Rules over the Plane of Trade (Originally a mortal who was granted demi god status by the god of knowledge, Enruel)
 
