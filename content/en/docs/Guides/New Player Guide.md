@@ -21,16 +21,6 @@ First of all, come drop by our discord! We can help you if you have any question
 
 https://discord.gg/D58HfVZ
 
-**IP Address** 
-
-IP: play.fallofanempire.com 
-
-Plugin Source Code: [www.github.com/mixxit/solinia3-core](www.github.com/mixxit/solinia3-core)
-
-**Code of Conduct** 
-
-Please first read our [Code of Conduct](../code-of-conduct) documentation to be sure you know the rules involved playing on our server 
-
 **Overview** 
 
 This document will aim to be a reference booklet for new and old players of Fall of an Empire. It will cover all areas of the current storyline at the time of posting as well as the mechanics involved in playing on our server It is recommended you print a copy of this document to keep as your guide while you travel the Worlds of Solinia 
@@ -41,9 +31,27 @@ Welcome to Utra! Your new home for your time visiting us!
 
 ![](https://www.fallofanempire.com/img/Utra.jpg)
 
+**Required Resource Pack & Mod**
+
+We require a resource pack and mod to play on our server
+
+Download the Resource Pack from https://solinia.blob.core.windows.net/solinia-public/solinia3-resourcepack.zip
+
+Download the Mod from https://www.fallofanempire.com/docs/guides/mod
+
+**IP Address** 
+
+IP: play.fallofanempire.com 
+
+Plugin Source Code: [www.github.com/mixxit/solinia3-core](www.github.com/mixxit/solinia3-core)
+
 **Getting to Grips with the Tutorial**
 
 Because our server is so different you might need help getting started with the change in the interface. [See our Tutorial for the Tutorial page](https://www.fallofanempire.com/docs/guides/tutorialfortutorial/) for a complete step by step guide
+
+**Code of Conduct** 
+
+Please first read our [Code of Conduct](../code-of-conduct) documentation to be sure you know the rules involved playing on our server 
 
 **Building in our World**
 
@@ -56,14 +64,6 @@ You are able to see the specific date you are in by typing /today in chat and th
 The current content setting is Utra, within the The Severed Isles, you can find more information about this region of the world by clicking here: https://www.fallofanempire.com/docs/locations/the-severed-isles/utra-sacred/
 
 You are also able to see map of the Severed Isles and your location on it, by going onto the website and clicking dynmap http://play.fallofanempire.com:8123/ 
-
-**Required Resource Pack & Mod**
-
-We require a resource pack and mod to play on our server
-
-Download the Resource Pack from https://solinia.blob.core.windows.net/solinia-public/solinia3-resourcepack.zip
-
-Download the Mod from https://www.fallofanempire.com/docs/guides/mod
 
 **Dynamic Map**
 
