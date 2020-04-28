@@ -397,6 +397,8 @@ You say who is murag
 
 Pawnbroker_Gisf says 'Oh nothing, nothing, forget i ever said anything'
 
+You can find Lord Murag forcing Orc miners to try to find something deep in the mountains at Redscar Mines
+
 You kill Lord Murag
 
 You have looted Spear Head 
