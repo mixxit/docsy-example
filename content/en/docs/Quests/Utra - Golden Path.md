@@ -79,13 +79,15 @@ You give the Innately Decorated Spear Socket to Szsen
 
 Szsen says 'Yesssss! Quite beautiful indeed! It isssss good to ssssseee this return! We are ssssssure it wasss the sssspiraling monkey decoratation around the sssssocket that the blue onesssss were ssssso fasssscinated with. It provessss the tree dwellerssss are more than just ssssimple animals! Now we mussssst find the sssshaft, a travelling Monk visssssited Lunarissssss recently and ssssswore to us that the ssssshaft was a relic of the Sha Sun monkssssss. He paid usssss as handssssome price to take the ssshaft to hisss people and promised to return with more information. We have yet to hear from him sssssince that day, hissss name was Qin Chi and we believe he was from the eassssst of Utra. He mentioned sssssomething about the ssssstaff being to do with the violent lizzzzardfolk of the ssssands. I am ssssure if you were to seek the lizzzards you could find the ssssstafff'
 
-You kill the Lizardman Priest near Lunathis and loot Torn and Blooded Robe of Qin Chi
+You kill the Lizardman Priest near Lunathis [-2553 127 -2222] and loot Torn and Blooded Robe of Qin Chi
 
 You give Torn and Blooded Robe to Szsen
 
 Szsen says Ohh nooo is thissss the robe of the monk? Thissss is not good! There is another of Qin Chis kind in Tanqara, perhapsssss you sssshould show this to him
 
 You receive Torn and Blooded Robe of Qin Chi
+
+You can find Xon Shu in the garden inside Tanqara
 
 You give Torn and Blooded Robe of Qin Chi to Xon Shu
 
@@ -107,6 +109,8 @@ You say 'Qin Chi'
 
 Augur Didyma turns the first card revealing a tower. 'To the east lays a tower, long forgotten now and inhabited by the scaled ones. It is a place of blasphemy in the eyes of the gods, doomed to summon the unwanted, cursed for all who walk its halls. The tower requires a sacrifice to bring the ones its new keepers seek. If you hurry, you may save Qin Chi and prevent another calamity.
 
+The scaled ones tower is Ezarils Gate to the east of Tanqara
+
 You say Hail to Qin Chi
 
 Qin Chi says 'Bantui, barashan. I thank you for killing my captives but I am here by my own will, it is the destiny that has been placed before me by the Gods'
@@ -119,7 +123,7 @@ You say how will I bring it back?
 
 Qin Chi says, 'This tower is a cursed contraption, built by snake like beings who no longer slither the deserts of Utra. The Darnans tried to exploit the magic here but all they ever did was summon suffering into the world. The cost of bringing back the item we seek will require my death, one I am happy to give to allow you to complete the great burden you have ahead of you. With my soul in your hand, you must use it to the floating contraption in the room before us. This will summon the artifact you need. Now barashan, it is time for me to return to Methabeht, do what must be done'
 
-You will Qin Chi
+You kill Qin Chi
 
 You loot Qin Chis Soul
 
