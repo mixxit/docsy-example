@@ -8,6 +8,9 @@ description: >
 ---
 
 This guide is for new players who are struggling with the tutorial
+
+You must have the MOD to complete this guide https://www.fallofanempire.com/docs/guides/mod/
+
 Please read the signs before reading this guide as they contain more information that may help you understand more about game
 This guide is solely for the actions required to complete the tutorial and nothing more
 ![](https://fallofanempire.com/img/pic1.png)
