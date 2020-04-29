@@ -12,6 +12,11 @@ description: >
 Alchemy
 {{% /pageinfo %}}
 
+# Overview
+
+Alchemy is a shaman only skill that can be used from level 25 onwards. It mainly consists of grinding herbs together to create all manner of potions. You can use alchemy with the /craft command, dropping the two components in the left two slots then clicking the
+slot on the right
+
 # Recipes
 
 | Recipe  | Skill   | MinSkill | Item1   | Item2    | Output Item         | Class  |
