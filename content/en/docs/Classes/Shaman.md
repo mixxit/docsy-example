@@ -28,6 +28,8 @@ The oracle The mystic (insert final title)
 
 Level 15 Dodge 
 
+Level 25 Alchemy
+
 Level 30 Specialise 
 
 **Race Recommendations**
