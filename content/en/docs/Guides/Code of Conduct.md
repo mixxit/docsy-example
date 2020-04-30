@@ -29,6 +29,10 @@ PVP is allowed on the server but you must request consent from the player you wi
 
 Disturbing other player’s property or items without their permission, including: * Breaking or placing blocks on other player’s property * Stealing items from chests owned by other players * Entering other player’s houses uninvited * Purposefully preventing players from being able to complete quests, gathering items etc. Share the game, try not to camp, agree to split the camp if necessary 50/50. Note killing vendor NPCs etc are fine, just don't do it if someone else is busy with them. If you need to kill them then ask to share the camp * Stealing or killing player animals horses animals etc. * Stealing all the loot in a group Most of this is self evident. Just think, is it yours? Would you like this done to you? 
 
+**Access**
+
+You are not permitted to access our server via a VPN or tor exit node
+
 **Public Nuisance** 
 
 Creating “traps” or placing dangerous blocks (fire, lava, etc.) in public property “Spamming” the chat with repetitive or unwanted messages Building 1x1 towers (even for your elytra) it looks horrid 
