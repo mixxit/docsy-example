@@ -86,6 +86,8 @@ Lunarine and Iduolo
 
 
 # Skins:
+
 Male: https://www.fallofanempire.com/img/skins/Male_Lidkim.png
+
 Female:https://www.fallofanmpire.com/img/skins/Female_Lidkim.png
 
