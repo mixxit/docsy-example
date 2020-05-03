@@ -12,7 +12,7 @@ menu:
 Welcome to the Voting page
 {{% /pageinfo %}}
 
-# Open all sites at once
+# Open all sites at once [Firefox]
 
 <a href="#" onclick="
 window.open('https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/');
