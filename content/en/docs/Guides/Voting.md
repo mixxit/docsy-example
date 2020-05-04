@@ -23,11 +23,14 @@ window.open('https://minecraft-server.net/vote/fallofanempire');
 window.open('http://minecraft-server-list.com/server/345651/vote/');
 window.open('http://www.minecraft-servers-list.org/index.php?a=in');
 window.open('https://minebrowse.com/server/364');
+window.open('https://topminecraftservers.org/vote/11735');
 ">Click here to open all the pages below, at once</a>
 
 # Individual Sites
 
 https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/
+
+https://topminecraftservers.org/vote/11735
 
 https://minecraft-mp.com/server/118059/vote/
 
