@@ -94,6 +94,24 @@ Ezro Elder says We have heared a great many things about yourself and your frien
 
 You say Hail Ezro Elder
 
+You say thing
+
+Had we not been in session we would have greeted you personally when you first arrived at Ezro. Sadly we have had a particular situation occur that must be kept between ourselves. As you may know Ezro is a small outpost of Tanqara which is ruled by the great Crusader King. His son arrived here not a fortnight ago before riding off into the Jungle with his personal guards. We fear he has been kidnapped by the Kenku of Zerzura. We implore you to aid us once more and bring back the Prince before the royal family get wind of what has happened here. You may find this a challenge, please take this, hopefully it can be something of help
+
+You receive Blazing Shield of the Elder
+
+You kill Archlich Karak
+
+You loot Perfectionism
+
+You loot Arch_Karaks_Head
+
+You give the book Perfectionism to the Elder
+
+Oh no this cannot be! This is terrible news! Agghh, the prince.... He was so young.... one day may have even been King! The royal family will tear Ezro apart for this! I cannot explain how bad this will be for us - please at least find the Head of the monster that did this, deliver it and this terrible news to the Tanqara Guard Captain. The elders must now meet and discuss how we will proceed, we must mourn, we must find a way to repay the family for our failure
+
+# Missing Prince
+
 # The Spear
 
 Recommended Level 10-15
