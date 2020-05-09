@@ -70,15 +70,29 @@ You say what issue with security
 
 Overseer Juco says We are surrounded by Kenku, Myconids and Undead - our only allies are the bullywugs, if you can call them that! They seem more interested in trading than helping us defend ourselves. My best scout, Aski has been missing for over two days and I have no idea what has been rousing in the forgotten ruins to the north. Something is spooking the Kenku and their attacks are increasing, unless we find out why more undead have been heading south of late we may be overwhelmed in the middle of the night
 
-You say Ask sent me
+# Something Stirs
+
+Recommended Level 7-10
+
+You say Aski sent me
 
 Overseer Juco says So that is some good news at least. So there are more of you in the south east? Perhaps this can be a blessing to us at such a time. Reinforcements from Tanqara will take weeks to arrive and if the Kenku attacks do keep hitting us as strong as they have been we will need good allies besides the bullywug. Help me out, will you? Investigate those ruins to the North and see if you can find out what is causing the undead to stir. I will see what I can do to get you a meeting with the Elders, perhaps we can help your survivors and you can help us
 
 You receive quest Something Stirs
 
-# Something Stirs
+You give Overseer Juco The_Head_of_Lord_Hezic
 
-Recommended Level 7-9
+Goodness! Goblins this far north of the dragonspine? But for what purpose and why now? With Necromancer now dead we will send up a small unit to clean up the risen and put them back in the ground where they belong. Now while you were gone I had a chance to speak to Aski and your friend Ayla who both confirmed what you said. Due to this, I spoke with the council and they all agreed to despatch supplies to your fellow survivors. Now, they wish to speak to you so please speak to one of the guards outside and tell them you have been sent for
+
+You say I have been sent for to Elite Guard
+
+Elite Guard says The elders have been expecting you, please go in
+
+You say Hail to Ezro Elder
+
+Ezro Elder says We have heared a great many things about yourself and your friends who washed ashore south of us. We are hoping we can ask just one more thing of you
+
+You say Hail Ezro Elder
 
 # The Spear
 
