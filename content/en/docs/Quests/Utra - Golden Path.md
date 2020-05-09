@@ -12,6 +12,74 @@ description: >
 Utra - Golden Path
 {{% /pageinfo %}}
 
+# Through the Mine
+
+Recommended Level 2-9
+
+You say hail AYGAR_LOTHIS
+
+AYGAR_LOTHIS says 'Heavens te Kaza'Thul, another bloody survivor! Are ye ok mate? You should go rest up, get some food and speak te' ranthar, he seems te be helping run te' camp till we find t'other leaders. If te'y survived'
+
+You say hail Ranthar_Elrin
+
+Ranthar_Elrin syas 'I amanged to scout my way up the mountains, looks to be goblin activity so be careful. I saw what looked like an old abandoned mine up there but we have our hands full trying to find survivors. Maybe you could go up there?
+
+You say 'what mine?'
+
+Ranthar_Elrin says 'Head up to the top part of our camp, you will see a trail leading to a broken through hole in the side of the mountain. It looks like there was mining activity there. Be careful, I couldn't tell what's inside'
+
+You kill Ice Goblin and loot Ice Goblin Head
+
+You give Ranthar the Ice Goblin Head
+
+Ranthar_Elrin says So you scouted the tunnel and found goblins? Much as I thought, we will attempt to gather some men and clear out a path to the other side of the mountain. When you are rested, i'd like you to also scout the land beyond
+
+You say what land beyond
+
+Ranthar_Elrin says We sent one of our best climbers over the mountain, her name is Ayla. We havent heard back from her and I fear she may have got into some trouble on the other side. Travel back through the mines and find her
+
+You say Hail Baroness_Ayla
+
+Baroness_Ayla says Those bastard crows jumped me from above! The forest is teeming with them! You should speak to my friend here, he may be of some help
+
+You say hail Jadeclaw Aski
+
+Jadeclaw Aski says Those bastard crows jumped me from above! The forest is teeming with them! You should speak to my friend here, he may be of some help
+
+You say what is ezro
+
+Jadeclaw Aski says I saw Ayla descending the mountain and went to investigate. She told me many things about your people. Ezro is a village of my kind deep in the forest, If you head there and speak to our Elders they may be able to help
+
+You say how can i head there?
+
+Jadeclaw Aski says There is a path, not far from here that leads to the city, it lays in the center of the forest along freshwater lakes. Stick to the paths, you will not miss it. Find the leaders and tell them I sent you..
+
+You say hail Elite Guard
+
+Elite Guard says The Elders are currently in session. None may enter unless the matter is absolutely dire. Please see Overseer Juco in their stead, you can find him in the building on the mound to the south of here
+
+You say hail Assistant Pslow
+
+Assistant Pslow says Welcome to Ezro, if you wish to speak to the Overseer then you can find him upstairs, but please be careful he has a bit of a temper at present
+
+You say hail Overseer Juco
+
+Overseer Juco says Those bafoons dont understand what it takes to run a modern anushi settlement in a territory like this! They growl on about tradition, the spirits and how we must be one with the land as I have to deal with the day-to-day business of keeping a populous fed, infrastructure and security - Then they have the gaul to exclude me from the weekly sessions! How dare they! I mean really!
+
+You say what issue with security
+
+Overseer Juco says We are surrounded by Kenku, Myconids and Undead - our only allies are the bullywugs, if you can call them that! They seem more interested in trading than helping us defend ourselves. My best scout, Aski has been missing for over two days and I have no idea what has been rousing in the forgotten ruins to the north. Something is spooking the Kenku and their attacks are increasing, unless we find out why more undead have been heading south of late we may be overwhelmed in the middle of the night
+
+You say Ask sent me
+
+Overseer Juco says So that is some good news at least. So there are more of you in the south east? Perhaps this can be a blessing to us at such a time. Reinforcements from Tanqara will take weeks to arrive and if the Kenku attacks do keep hitting us as strong as they have been we will need good allies besides the bullywug. Help me out, will you? Investigate those ruins to the North and see if you can find out what is causing the undead to stir. I will see what I can do to get you a meeting with the Elders, perhaps we can help your survivors and you can help us
+
+You receive quest Something Stirs
+
+# Something Stirs
+
+Recommended Level 7-9
+
 # The Spear
 
 Recommended Level 10-15
