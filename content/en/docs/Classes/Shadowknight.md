@@ -20,11 +20,11 @@ Shadowknight
 
 **Class Titles**
 
-Level 51: 
+Level 51: the Reaver
 
-Level 55:  
+Level 55: the Revenant
 
-Level 60:  
+Level 60: the Grave Lord
 
 **Passive and Unique Skills**
 
@@ -33,6 +33,22 @@ Level 60:
 **Statistics Recommendations**
 
 **Gear Recommendations**
+
+**Passive and Unique Skills**
+
+Dodge at level 10
+
+Riposte at level 30
+
+Double attack at level 20
+
+Disarm at level 40
+
+Meditation at level 12
+
+Pray from Level 1
+
+Bash from level 6
 
 **Spells**
 
