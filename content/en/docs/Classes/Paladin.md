@@ -24,6 +24,22 @@ Paladins are sworn by oath to protect and spread the words of their Gods. Due to
 
 Paladins are bitterly opposed to Shadow Knights who they are often at war with
 
+**Passive and Unique Skills**
+
+Dodge at level 6
+
+Riposte at level 30
+
+Double attack at level 20
+
+Disarm at level 40
+
+Meditation at level 12
+
+Pray from Level 1
+
+Bash from level 6
+
 **Spells**
 See [Spells](../../spells)   
 
