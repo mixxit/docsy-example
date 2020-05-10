@@ -36,6 +36,8 @@ Bind Wound 70% bonus at level 51
 
 Dodge at level 5 
 
+Bash at 6
+
 Double Attack at level 15 
 
 Riposte at level 15 
