@@ -16,6 +16,4 @@ Here you can find the combined lore for the world of Solinia alongside all the i
 
 As a new player we recommend first reading our [New Players Guide](https://www.fallofanempire.com/docs/guides/new-player-guide/)
 
-Please also consider visiting our discord for instant help
-
-https://discord.gg/D58HfVZ
+Please also consider visiting our discord for instant help (See new players guide)

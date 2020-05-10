@@ -19,7 +19,7 @@ Welcome To Fall of an Empire Minecraft Server! As a new player you're probably w
 
 First of all, come drop by our discord! We can help you if you have any questions
 
-https://discord.gg/D58HfVZ
+https://discord.gg/SuDGnW
 
 **Overview** 
 
