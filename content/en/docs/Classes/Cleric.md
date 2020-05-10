@@ -28,7 +28,7 @@ Clerics are the premier healers. They have very little damage-dealing ability, b
 
 Bind Wound 70% bonus at level 51 
 
-Bash at 25
+Bash at level 25
 
 Spell Specialisation at level 30 
 
