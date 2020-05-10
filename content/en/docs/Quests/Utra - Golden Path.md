@@ -124,7 +124,7 @@ You give Old Farza a Bag of Gold
 
 Old Farza says 'Good! You make an old merchant happy, and glad to help you, naturally! Old Farza never lets you down! Hahaa, So to understand this text, you need a linguist, and yes, there are great linguists in the library in Tanqara, but you need a specialist! An expert in Darnan languages! And where do you people fascinated with the Darnar.....? In Darnar ruins of course! Old Farza travels many times between Tanqara and Lunathis and there are many ruins in a forest to the west of Tanqara. Travel up the northern path from Tanqara and head West. You will find Guzel the Archeologist, maybe his corpse, perhaps. But if this the case, its not old Farza fault. Either way, tell him Farza send you.
 
-Hail Guzel
+Hail Guzel [-2721 65 -2046]
 
 Gaagggh more disturbance! More delays! WHAT DO YOU WANT
 
