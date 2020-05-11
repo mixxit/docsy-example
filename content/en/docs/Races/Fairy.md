@@ -25,10 +25,10 @@ Fairy
 <tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>GOOD</td></tr>
 <tr><td> <b>Language</b></td><td>Fairy</td></tr>
 <tr><td> <b>Height</b></td><td>3-5 feet</td></tr>
-<tr><td> <b>Skincolor</b></td><td> {{{skincolor}}}</td></tr>
-<tr><td> <b>Haircolor</b></td><td> {{{haircolor}}}</td></tr>
-<tr><td> <b>Lifespan</b></td><td> {{{lifespan}}}</td></tr>
-<tr><td> <b>Diet</b></td><td> {{{diet}}}</td></tr>
+<tr><td> <b>Skincolor</b></td><td>Lighter translucent</td></tr>
+<tr><td> <b>Haircolor</b></td><td>Food source dependent</td></tr>
+<tr><td> <b>Lifespan</b></td><td>Up to 2000 years</td></tr>
+<tr><td> <b>Diet</b></td><td>Mana</td></tr>
 <tr><td> <b>Distinctions</b></td><td>Translucant Wings</td></tr>
 <tr><td> <b>God worshipped</b></td><td>Zephyr</td></tr>
 </tbody>
