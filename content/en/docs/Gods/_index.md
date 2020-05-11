@@ -100,7 +100,7 @@ Auroris the Planeshifter - Rules over the Plane of Sun (Principal God of the Vis
 
 Alzagoth the Reaper - Rules over the Plane of Death (Principal God of the Gobel)
 
-Alorn the Artisan - Rules over the Plane of Trade (Originally a mortal who was granted demi god status by the god of knowledge, Enruel)
+Alorn the Artisan - Rules over the Forge City of Amirith in the Plane of Trade (Originally a mortal who was granted demi god status by the god of knowledge, Enruel)
 
 Etsi the Dealmaker - Dark God of Bargains and Gambling (aka The Imp God)
 
