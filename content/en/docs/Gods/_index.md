@@ -136,7 +136,7 @@ Golkara - The Goddess of Life and Abundance
 
 Irduolo - The Goddess of Friendship and Trust
 
-Lumyle - The Goddess of Wine and Festivals
+Lumyle - The Goddess of Music, Wine and Festivals
 
 Lunarine -The Goddess of Strategy and Conquest
 
