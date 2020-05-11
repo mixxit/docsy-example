@@ -7,6 +7,8 @@ description: >
  Tutorial for Tutorial
 ---
 
+Since the tutorial is for Adventurers, this guide will assume you have spoke to the Adventurer NPC and entered the Tutorial
+
 This guide is for new players who are struggling with the tutorial
 
 You must have the MOD to complete this guide https://www.fallofanempire.com/docs/guides/mod/
