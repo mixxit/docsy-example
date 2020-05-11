@@ -24,7 +24,7 @@ Lidkim
 <tr><td> <b>Alliance</b></td><td>Tanqaran-Lunathis Pact</td></tr>
 <tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>NEUTRAL</td></tr>
 <tr><td> <b>Language</b></td><td>Lidkim</td></tr>
-<tr><td> <b>Height</b></td><td> {{{height}}}</td></tr>
+<tr><td> <b>Height</b></td><td>5' - 6'</td></tr>
 <tr><td> <b>Skincolor</b></td><td>Brown, Orange Green Scales</td></tr>
 <tr><td> <b>Haircolor</b></td><td>None</td></tr>
 <tr><td> <b>Lifespan</b></td><td></td></tr>
