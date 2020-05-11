@@ -68,7 +68,7 @@ Wispen (Plantfolk)
 - Active: Root - Roots the target in place, rendering them unable to turn or move for 5 seconds; Cooldown: 25; Power: 25; Range: 8
 - Passive: Nature's Heritage - Passively gains power (5/s) while in light level above 7
 
-Eusbian (Halfling)
+Eusebian (Half elf)
 - Active: Swift Feet - Gains Speed 2 for 10 seconds ; Cooldown: 30 ; Power: 50
 - Passive: Stout Roll - Takes 1/2 all fall damage
 
