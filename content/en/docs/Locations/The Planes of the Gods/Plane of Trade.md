@@ -22,7 +22,7 @@ The city of Amirith sits at the boundaries between many other realities and welc
 
 # Alorn the Artisan
 
-Alorn rules over the The Forge City of Amirith and is found working endless goods and weapons in the planar forges deep below the city. Order is maintained through the products he creates and their effect on those that use them. The items he creates can, and have, changed the course of many lives on Solinia and the Planes of the Gods
+Alorn rules over the The Forge City of Amirith and is found working endless goods and weapons in the planar forges deep below the city. Alorn rarely meets with other inhabitants of the city - instead his will and order is maintained through the products he creates and their effect on those that use them. The items has has forged can, and have, changed the course of many lives on Solinia and the Planes of the Gods
 
 # Organisations
 
