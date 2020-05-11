@@ -27,7 +27,7 @@ Lidkim
 <tr><td> <b>Height</b></td><td>5' - 6'</td></tr>
 <tr><td> <b>Skincolor</b></td><td>Brown, Orange Green Scales</td></tr>
 <tr><td> <b>Haircolor</b></td><td>None</td></tr>
-<tr><td> <b>Lifespan</b></td><td></td></tr>
+<tr><td> <b>Lifespan</b></td>60-75 years<td></td></tr>
 <tr><td> <b>Diet</b></td><td>Omnivore</td></tr>
 <tr><td> <b>Distinctions</b></td><td>Scaly skin, tails</td></tr>
 <tr><td> <b>God worshipped</b></td><td>Lunarine and Iduolo</td></tr>
