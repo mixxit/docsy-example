@@ -26,7 +26,6 @@ slot on the right
 | DISTILLED_MANA_DUST | ALCHEMY | 50       | Distilled_Mana      | Solinian_Heart_Dust  | Distilled_Mana_Dust | SHAMAN |
 | MANA_POTION_I       | ALCHEMY | 55       | Distilled_Mana_Dust | Empty_Bottle         | Mana_Potion_I       | SHAMAN |
 | GROUND_HELIOTROPE   | ALCHEMY | 0        | Mortar_and_Pestle   | Heliotrope           | Ground_Heliotrope   | SHAMAN |
-| GATE_POTION         | ALCHEMY | 150      | Empty_Bottle        | Condensed_Heliotrope | Gate_Potion         | SHAMAN |
 | FENUGREEK_BIRTHWORTH_MIX         | ALCHEMY | 0      | BIRTHWORTH        | FENUGREEK | FENUGREEK_BIRTHWORTH_MIX         | SHAMAN |
 | BLOOD_OF_WOLF_POTION         | ALCHEMY | 21      | FENUGREEK_BIRTHWORTH_MIX        | WOLF_BLOOD | BLOOD_OF_WOLF_POTION         | SHAMAN |
 | POTION_OF_UNLIFE_AWARENESS         | ALCHEMY | 37      | FENNEL        | ELDERBERRY | POTION_OF_UNLIFE_AWARENESS         | SHAMAN |
@@ -39,5 +38,6 @@ slot on the right
 | POTION_OF_LESSER_REJUVINATION         | ALCHEMY | 37      | SAGE_LEAF_YARROW_MIX        | LUCERNE | POTION_OF_LESSER_REJUVINATION         | SHAMAN 
 | SAGE_LEAF_FIGWORT_MIX         | ALCHEMY | 40      | FIGWORT        | SAGE_LEAF | SAGE_LEAF_FIGWORT_MIX         | SHAMAN |
 | POTION_OF_REJUVINATION         | ALCHEMY | 103      | SAGE_LEAF_FIGWORT_MIX        | LUCERNE | POTION_OF_REJUVINATION         | SHAMAN |
+| GATE_POTION         | ALCHEMY | 150      | Empty_Bottle        | Condensed_Heliotrope | Gate_Potion         | SHAMAN |
 | AUGMENTATION_DISTILLER         | ALCHEMY | 180      | METALLIC_LIQUID        | CORROSIVE_GOO | AUGMENTATION_DISTILLER         | SHAMAN |
 | HAWKS_EYE_TONIC         | ALCHEMY | 191      | STAR_LEAF_CLOVER        | TRIFERN_LEAF | HAWKS_EYE_TONIC         | SHAMAN |
