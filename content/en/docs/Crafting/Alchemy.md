@@ -26,6 +26,7 @@ slot on the right
 | DISTILLED_MANA_DUST | ALCHEMY | 50       | Distilled_Mana      | Solinian_Heart_Dust  | Distilled_Mana_Dust | SHAMAN |
 | MANA_POTION_I       | ALCHEMY | 55       | Distilled_Mana_Dust | Empty_Bottle         | Mana_Potion_I       | SHAMAN |
 | GROUND_HELIOTROPE   | ALCHEMY | 0        | Mortar_and_Pestle   | Heliotrope           | Ground_Heliotrope   | SHAMAN |
+| CONDENSED_HELIOTROPE   | ALCHEMY | 75        | GROUND_HELIOTROPE   | GROUND_HELIOTROPE           | CONDENSED_HELIOTROPE   | SHAMAN |
 | FENUGREEK_BIRTHWORTH_MIX         | ALCHEMY | 0      | BIRTHWORTH        | FENUGREEK | FENUGREEK_BIRTHWORTH_MIX         | SHAMAN |
 | BLOOD_OF_WOLF_POTION         | ALCHEMY | 21      | FENUGREEK_BIRTHWORTH_MIX        | WOLF_BLOOD | BLOOD_OF_WOLF_POTION         | SHAMAN |
 | POTION_OF_UNLIFE_AWARENESS         | ALCHEMY | 37      | FENNEL        | ELDERBERRY | POTION_OF_UNLIFE_AWARENESS         | SHAMAN |
