@@ -41,6 +41,10 @@ Download: https://www.fallofanempire.com/files/OptiFine_1.14.4_HD_U_F5_MOD.jar
 
 Download: https://www.fallofanempire.com/files/Xaeros_Minimap_FP20.7.0_Forge_1.14.4.jar
 
+**More Player Models MOD:**
+
+Download: https://www.fallofanempire.com/files/MorePlayerModels_1.14.4-12Dec19snapshot.jar
+
 # Step 2 - Installing Forge
 
 Double click on the forge file you downloaded
