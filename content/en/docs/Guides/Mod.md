@@ -37,6 +37,8 @@ You must have version OptiFine_1.14.4_HD_U_F5_MOD.jar
 
 Download: https://www.fallofanempire.com/files/OptiFine_1.14.4_HD_U_F5_MOD.jar
 
+# Step 1b - Optional Downloads
+
 **Xaeros Map MOD:**
 
 Download: https://www.fallofanempire.com/files/Xaeros_Minimap_FP20.7.0_Forge_1.14.4.jar
