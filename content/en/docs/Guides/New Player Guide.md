@@ -115,7 +115,7 @@ See [Classes](../../classes)
 
 **Statistics**
 
-See [Statistics](Statistics)
+See [Statistics](../Statistics)
 
 **Earning money** 
 
