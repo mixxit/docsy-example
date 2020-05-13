@@ -13,15 +13,15 @@ There is no one perfect way to set up an individual character class.  Much of it
 
 ## Strength (STR)
 
-Affects: Attack Power (see "ATK"), Weight Limit, Bow Damage 
+Affects: Attack Power (see "ATK"), Bow Damage 
 
 *Max (hard-cap): 255
 
-Strength is a valuable stat for melee and tank characters to increase both their max and average hit of white damage.
+Strength is a valuable stat for melee and tank characters to increase both their max and average hit of damage.
 
 ## Stamina (STA)
 
-Affects: Hit Points (see "HP"), Endurance (see "ENDR"), and Swimming Breath.
+Affects: Hit Points (see "HP")
 
 *Max (hard-cap): 255
 
@@ -29,15 +29,13 @@ Stamina is very valuable for tanks to increase maximum hit points. It's also som
 
 ## Agility (AGI)
 
-Affects: Dodge skill up rate, Defense skill up rate, Avoidance Armor Class, Parry skill up rate, Run speed (below 75).
-
 *Max (hard-cap): 255 
 
 Agility influences the ability of an enemy to hit you. Above 75, the AC provided for each Agility is slight. Below 75 agility causes a large AC hit. For example, on a level 60 ogre SK, going from 76 to 85 AGI provides 3 AC. But going from 66 to 75 AGI provides 45 AC.
 
 ## Dexterity (DEX)
 
-Affects: Bard Song missed notes; Melee skill-ups, Procs, Crits .
+Affects: Bard Song missed notes; Procs, Crits.
 
 *Max (hard-cap): 255
 
@@ -46,28 +44,27 @@ This determines how often you crit with your weapons, how quickly you learn weap
 
 ## Wisdom (WIS)
 
-Affects: Caster mana amount (mana pool) for Clerics, Paladins, Druids, Shamans and Rangers. Conditionally determines how fast magic skills increase.
+Affects: Caster mana amount (mana pool) for Clerics, Paladins, Druids, Shamans and Rangers
 
 *Max (hard-cap): 255
 *Soft-cap: 200
 
 ## Intelligence (INT)
 
-Affects: Caster mana amount (mana pool) for Necromancers, Magicians, Enchanters, Wizards, Shadowknights & Bards*. Determines how fast magic skills increase.
+Affects: Caster mana amount (mana pool) for Necromancers, Magicians, Enchanters, Wizards, Shadowknights & Bards*
 
 *Max (hard-cap): 255
 *Soft-cap: 200
 
 ## Charisma (CHA)
 
-Affects: Charming (ENC/BRD only) ; Merchant prices ; Increases success rate of a secondary check on the Lull line of spells which causes target aggro when failed [http://everquest.allakhazam.com/forum.html?forum=1&mid=110007699250653295]
+Affects: Charming (ENC/BRD only)
 
 *Max (hard-cap): 255
+
 # Secondary Stats 
 
 ## Armor Class (AC)
-
-:''See also: Skill Defense''
 
 Armor Class as a whole is divided into two parts. The first determining how hard you get hit and the other when you will be hit.
 
@@ -101,13 +98,9 @@ A player's mana pool determines how many spells you can cast. Mana is increased 
 
 Max (cap): None
  
-There are Buff_Lines#Mana_Regeneration| many spells that enhance the rate of mana regeneration, which are always prized by casters. There is also a Buff_Lines#Mana| single Enchanter line of spells that increases maximum mana directly, and Buff_Lines#Intelligence| another Enchanter line to increase Intelligence, as well as Buff_Lines#Wisdom| two spell lines which increase Wisdom, and both will increase mana indirectly.
+There are Buff_Lines#Mana_Regeneration| many spells that enhance the rate of mana regeneration, which are always prized by casters. 
 
-## Endurance (ENDR)
-
-Affects: Jumping, Disciplines.
-
-Endurance determines how long you can perform strenuous activities before becoming fatigued.
+There is also a single Enchanter line of spells that increases maximum mana directly, and another Enchanter line to increase Intelligence, as well as two spell lines which increase Wisdom, and both will increase mana indirectly.
 
 ## Resists
 
