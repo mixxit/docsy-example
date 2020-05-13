@@ -45,19 +45,25 @@ IP: play.fallofanempire.com
 
 Plugin Source Code: [www.github.com/mixxit/solinia3-core](www.github.com/mixxit/solinia3-core)
 
-**Getting to Grips with the Tutorial**
-
-Because our server is so different you might need help getting started with the change in the interface. [See our Tutorial for the Tutorial page](https://www.fallofanempire.com/docs/guides/tutorialfortutorial/) for a complete step by step guide
-
 **Code of Conduct** 
 
 Please first read our [Code of Conduct](../code-of-conduct) documentation to be sure you know the rules involved playing on our server 
+
+**Roleplaying Only**
+
+When you first enter the game you will be greeted by two npcs - roleplaying and adventuring. This guide presumes you have followed the adventuring path which requires the mod and uses all of the servers features.
+
+If you are just wanting to build and roleplay you can take the roleplaying path instead
+
+**Getting to Grips with the Adventuring Tutorial**
+
+Because our server is so different you might need help getting started with the change in the interface. [See our Tutorial for the Tutorial page](https://www.fallofanempire.com/docs/guides/tutorialfortutorial/) for a complete step by step guide
 
 **Building in our World**
 
 A large portion of our map is reserved for world content and we have several locations earmarked for public builds. You can protect these areas with towny. However, if you would prefer to live somewhere else, please give our staff a shout on discord and we will open up any area of the world so long as it doesnt affect roleplay, npc content or aesthetics
 
-**Roleplaying Setting** 
+**World Setting** 
 
 You are able to see the specific date you are in by typing /today in chat and the name of the day and date will come up. Day and night cycles on Solinia are roughly ¼ that of a Real life one (24hrs) This is very useful for Roleplaying effectively and Remembering Births/Deaths too. 
 
@@ -106,6 +112,10 @@ See [races](../../races)
 Professions are specialisations that determine your avatars statistics, abilities and skills. You may only set your profession once and this is done through our introduction questline. You can find out more about professions via the /classinfo command - you can also see their abilities on our page /class [Classname] 
 
 See [Classes](../../classes) 
+
+**Statistics**
+
+See [Statistics](Statistics)
 
 **Earning money** 
 
