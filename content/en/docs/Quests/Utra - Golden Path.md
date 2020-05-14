@@ -110,6 +110,36 @@ You give the book Perfectionism to the Elder
 
 Oh no this cannot be! This is terrible news! Agghh, the prince.... He was so young.... one day may have even been King! The royal family will tear Ezro apart for this! I cannot explain how bad this will be for us - please at least find the Head of the monster that did this, deliver it and this terrible news to the Tanqara Guard Captain. The elders must now meet and discuss how we will proceed, we must mourn, we must find a way to repay the family for our failure
 
+You say Hail Guard_Captain [-2164, 52, -2166]
+
+Guard_Captain says 'As captain of the guard it is my responsibility to ensure all of the city is safe. This includes ensuring each officer is trained by the warriors guild known as the Jadeclaws'
+
+You give Arch_Karaks_Head to Guard_Captain
+
+Guard_Captain says 'So it is true then, the Prince is dead. I am not looking forward to relaying this message to the Queen but I cant say I hadn't warned her that her son was wreckless heading into those forests. Not that it will be any comfort to her now. No, I guess then we must take the time to mourn and be thankful there is still more to the Kings litter. Thank you for bringing the head of this monstrocity, we could use more people like you in the field. If you are ever looking for work, seek out Scout Ashenrar in the east of here, he will need your help'
+
+You say HAIL Scout_Ashenrar
+
+Scout_Ashenrar says 'Sssh, quiet I think I can hear something'
+
+You say what something?
+
+Scout_Ashenrar says 'Orcs I think, yep looks like they have pushed north. We need more soldiers damnit!'
+
+You say what soldiers?
+
+Scout_Ashenrar says 'They are busy clearing the roads of undead, but the Orcs could potentially be a bigger threat if they were to cut us off in this ravine, Tanqara relies on supplies from other cities. I dont suppose you can help can you?'
+
+You say what help?
+
+Scout_Ashenrar says 'That's great! I need you to clear out as many as you can to the east of here till you find some sort of reason why they are poking around so close to Tanqara'
+
+# Scouting the Desert
+
+You kill Orc_Leader [-1728,32,-1861]
+
+You loot Archaic Markings from Orc_Leader
+
 # The Spear
 
 Recommended Level 10-15
