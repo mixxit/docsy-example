@@ -118,7 +118,7 @@ You give Arch_Karaks_Head to Guard_Captain
 
 Guard_Captain says 'So it is true then, the Prince is dead. I am not looking forward to relaying this message to the Queen but I cant say I hadn't warned her that her son was wreckless heading into those forests. Not that it will be any comfort to her now. No, I guess then we must take the time to mourn and be thankful there is still more to the Kings litter. Thank you for bringing the head of this monstrocity, we could use more people like you in the field. If you are ever looking for work, seek out Scout Ashenrar in the east of here, he will need your help'
 
-You say HAIL Scout_Ashenrar
+You say HAIL Scout_Ashenrar [-1959 29 -1956]
 
 Scout_Ashenrar says 'Sssh, quiet I think I can hear something'
 
@@ -144,7 +144,7 @@ You loot Archaic Markings from Orc_Leader
 
 Recommended Level 10-15
 
-You give Old Farza the Archaic Markings
+You give Old Farza [-2165,29,-2001] the Archaic Markings
 
 The merchant trader snorts some unusual looking green spice and smiles a toothy grin in your direction 'So you come to ol' Farza do you? Looking for lost Utran pottery? No! The finest of Lunathian wine! Ohhhh... no, you have something.. yes ... very very old, pass it over to old Farza.' The trader takes the small runic stone and gazes over it, feeling along its surface and fingering the lettering with his weather hands. 'Yes, Darnan, second century... unusual... not words that Farza has seen before. A specialist you will need, for a bag of gold, maybe I can advice you... yes!' he smiles his toothy smile and places out his hand
 
