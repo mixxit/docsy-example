@@ -140,7 +140,17 @@ If you want to sell plots for your residents in your town you can stand in an ar
 
 ## Intro
 
-To begin an adventuring path you will need to visit the Adventurer npc in the starting dock town area. He is just near the tavern. Right click him to target him and then type HAIL to him. He will introduce himself and offer you options in purple text. Say those words back to him (Ie say:  I am an adventurer) - This will then teleport you to the adventuring tutorial or tell you that you are missing the mod
+First you need to find an npc called Adventurer
+
+You can find him outside the tavern in the starting area
+
+Right click him to target him 
+
+Now type HAIL
+
+He will introduce himself and offer you options in purple text
+
+Say those words back to him (Ie say:  I am an adventurer) - This will then teleport you to the adventuring tutorial (or tell you that you are missing the mod)
 
 If you forgot to install the mod, see [you need to install our Mod](https://www.fallofanempire.com/docs/guides/mod)
 
