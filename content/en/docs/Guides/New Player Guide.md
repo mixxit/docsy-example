@@ -164,20 +164,6 @@ Because our server is so different you might need help getting started with the 
 
 See [Statistics](../Statistics)
 
-## Earning money through adventuring
-
-Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC's to sell and buy items.
-
-Just like with NPC quests, right click NPC's which are buying or selling items and type SHOP and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction. For example click an item in your inventory at the bottom and click it on the top merchant inventory to sell it. NPCs only buy 'adventuring items' not raw minecraft items (for economic control reasons)
-
-Killing mobs is a great way to make money if you are just starting off or alternatively buy items off the /inspiration shop and sell them for $500 each. You can gain inspiration once a day from voting
-
-To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount 
-
-## Parties
-
-You can also create a group to talk to players in any distance by using the /group command and /g <msg> to send a message Groups also allow you to earn experience with your fellow heroes as well as monitor their hit points You can invite players to your party with /group invite and list all players in your party with /group list 
-
 ## Targetting yourself for Spells
 
 To target yourself please see your keybinds, by default this is ctrl - 1
@@ -250,7 +236,21 @@ When a player reaches level 50 they are able to access the /toggleaa command. Th
 
 AAs can massively increase a players power far beyond what tradition levels can and allows players to keep progressing their character despite reaching maximum level 
 
-## Travel** 
+## Earning money through adventuring
+
+Fall of an empire uses its own internal economy plugins to allow players to interact with merchant NPC's to sell and buy items.
+
+Just like with NPC quests, right click NPC's which are buying or selling items and type SHOP and they will list everything they are interested in trading Click on each item you wish to buy or sell to complete a transaction. For example click an item in your inventory at the bottom and click it on the top merchant inventory to sell it. NPCs only buy 'adventuring items' not raw minecraft items (for economic control reasons)
+
+Killing mobs is a great way to make money if you are just starting off or alternatively buy items off the /inspiration shop and sell them for $500 each. You can gain inspiration once a day from voting
+
+To check your balance at any time use the command /balance or /bal You can also pay other players using the /pay command with /pay playername amount 
+
+## Parties
+
+You can also create a group to talk to players in any distance by using the /group command and /g <msg> to send a message Groups also allow you to earn experience with your fellow heroes as well as monitor their hit points You can invite players to your party with /group invite and list all players in your party with /group list 
+
+## Travel
 
 Getting around isn’t easy, so we recommend using http://play.fallofanempire.com:8123 while travelling long distances. 
 
@@ -260,6 +260,12 @@ Remember, travel with friends where possible and be sure to grab a saddle from a
 
 If the journey is a long one, stock up on rations so you don't get stuck in the wild with no food or find a friendly druid and wizard who can teleport you to various locations around the world.
 
-**Map of the World**
+## Map of the World
 
 http://play.fallofanempire.com:8123
+
+### Anything else
+
+## HELP
+
+Any help, please ask in /ooc <msg> or come by our discord
