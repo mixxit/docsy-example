@@ -24,7 +24,7 @@ Beginning 196982 UT (1234 P-OE), the Caethian Invasion was one of the fastest an
 
 # The War
 
-Following the death of Methabeht and the shattering of the Time Line, races found the future and the past merged in some unkown land known as Amaria. Seeing the Aerindal alive once more the Emperor began a grand campaign once more to crush not only the Keladun and recently escaped Anushi slaves, but the Aerindal once more
+Following the death of Methabeht and the shattering of the Time Line, races found the future and the past merged into some unknown land known as Amaria. Seeing the Aerindal alive once more the Emperor began a grand campaign once more to crush not only the Keladun and recently escaped Anushi slaves, but the Aerindal once more
 
 It was during this campaign that Emperor Val'Elsir took the advice of a mysterious sage known as Shai'Din who gave him the where abouts of a tomb containing a powerful weapon known as Hiran Asura. Using this weapon he launched a final attack on Eindel but was ultimately killed in the process as Shai'Din turned sides with the defenders and led the evacuation of Amaria from the Caerthains
 
