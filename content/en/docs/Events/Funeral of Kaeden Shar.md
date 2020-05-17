@@ -12,7 +12,7 @@ description: >
 Funeral of Kaeden Shar
 {{% /pageinfo %}}
 
-QUEEN SHAR
+QUEEN SHARS SPEECH
 
 My appologies for my delay everyone, I was just paying my respects to the many family we have lost over the years
 
@@ -35,7 +35,7 @@ I know deep down, as his mother, he would want you here after what you have done
 I will leave you all now to take a moment each with Kaeden and then the Highshaman will speak on behalf of the gods
 
 
-Highshaman_Vrsa
+HIGHSHAMAN_VRSAS SPEECH
 
 I ask Why? If the spirits exist for an eternity, and we pass to the spirit realm. Then why this? 
 
@@ -71,7 +71,6 @@ That is we, the ones loved by the Spirits, are the only ones who can leave The M
 
 So take a moment, pray for Kaeden as he makes his journey. Maybe he will be there for you when your time comes
 
-
 THE DANCE
 
 The lights of the hall dim as you witness a younger anushi step forward from behind the tomb. 
@@ -89,7 +88,6 @@ The audience, wipe their tears and applaud and cheer
 The dancers stand and bow, then face towards the tomb of Prince Kaeden and take a final bow before leaving
 
 The queen stands and addresses
-
 
 Thank you all for coming, I will leave you now to take any more time you need with Kaeden, we will then retire to the tavern for drinks and celebrate my sons life - you are welcome to come
 
