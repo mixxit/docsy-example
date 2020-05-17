@@ -108,7 +108,25 @@ You can also see all players online with the command /who all
 
 ## Making money without adventuring
 
-With inspiraton points you can buy things from the /inspiration shop - The mana items sell for $500 each! So you can make enough to cover your daily town costs and keep yourself protected. Youc an also buy things from various shops
+You can sell vanilla minecraft items at any vendor of these types:
+
+COAL_ORE
+GOLD_ORE
+GOLD_INGOT
+GOLD_BLOCK
+IRON_INGOT
+IRON_ORE
+IRON_BLOCK
+DIAMOND_ORE
+DIAMOND
+DIAMOND_BLOCK
+LAPIS_ORE
+LAPIS_BLOCK
+REDSTONE_ORE
+REDSTONE
+REDSTONE_BLOCK
+
+With inspiraton points you can also buy things from the /inspiration shop which you can sell for money! See the /inspiration command and its subcommands
 
 ## Protecting an area
 
