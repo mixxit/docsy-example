@@ -88,6 +88,10 @@ Battle of Praecentia,
 
 Battle of Arnar
 
+# Specific Event Lore Text
+
+The forces that rule the shores of one of the continent's great lakes have at last clashed over territory and expansion. Undergate has declared war upon New Genesis, and the city of Rarahat's devout have accepted. Should you wish to get involved in this event, your character will have to be engaged in the ongoing roleplay between these two cities. You may speak to Johnathon Fox or Arafel if you wish to join either side.
+
 # Losses
 
 Emperor Val'Elsir was murdered by the lich Shai'Din in the final moments of the Eindel siege during The Caerthian Invasion of Amaria in 1234 P-OE (196982 UT)
