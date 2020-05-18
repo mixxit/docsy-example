@@ -22,7 +22,7 @@ AYGAR_LOTHIS says 'Heavens te Kaza'Thul, another bloody survivor! Are ye ok mate
 
 You say hail Ranthar_Elrin
 
-Ranthar_Elrin syas 'I amanged to scout my way up the mountains, looks to be goblin activity so be careful. I saw what looked like an old abandoned mine up there but we have our hands full trying to find survivors. Maybe you could go up there?
+Ranthar_Elrin syas 'I managed to scout my way up the mountains, looks to be goblin activity so be careful. I saw what looked like an old abandoned mine up there but we have our hands full trying to find survivors. Maybe you could go up there?
 
 You say 'what mine?'
 
