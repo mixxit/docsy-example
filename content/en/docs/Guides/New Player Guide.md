@@ -286,4 +286,4 @@ http://play.fallofanempire.com:8123
 
 ## HELP
 
-Any help, please ask in /ooc <msg> or come by our discord
+Any help, please ask in /ooc <msg> or [come by our discord](https://discord.gg/4FYXka5)
