@@ -40,7 +40,7 @@ We currently cater for two types of players, Roleplayers and RPG players!
 
 For roleplayers, which is mainly socialisation and creative building - you will simple be able to get straight to it
 
-For adventurers/rpg players, its a bit more complicated as [you need to install our Mod](https://www.fallofanempire.com/docs/guides/mod) for the best type of play (it has target bars, spell systems, pet controls, auto attack that wasnt possible with just a plugin)
+For adventurers/rpg players, its a bit more complicated as [you need to install our Mod](https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920) for the best type of play (it has target bars, spell systems, pet controls, auto attack that wasnt possible with just a plugin)
 
 ## Our resource pack
 
@@ -170,7 +170,7 @@ He will introduce himself and offer you options in purple text
 
 Say those words back to him (Ie say:  I am an adventurer) - This will then teleport you to the adventuring tutorial (or tell you that you are missing the mod)
 
-If you forgot to install the mod, see [you need to install our Mod](https://www.fallofanempire.com/docs/guides/mod)
+If you forgot to install the mod, see [you need to install our Mod](https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920)
 
 If you have trouble with installing it, feel free to ask in /o <your message here>
 

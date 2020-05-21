@@ -11,7 +11,7 @@ Since the tutorial is for Adventurers, this guide will assume you have spoke to 
 
 This guide is for new players who are struggling with the tutorial
 
-You must have the MOD to complete this guide https://www.fallofanempire.com/docs/guides/mod/
+You must have the MOD to complete this guide. [You can download it from here](https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920)
 
 Please read the signs before reading this guide as they contain more information that may help you understand more about game
 This guide is solely for the actions required to complete the tutorial and nothing more
