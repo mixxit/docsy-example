@@ -129,3 +129,9 @@ https://www.fallofanempire.com/files/MorePlayerModels_1.14.4-12Dec19snapshot.jar
 # Need more help?
 
 If you need any more help visit the #Support channel on our discord.
+
+# Technic Launcher Installer
+
+https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920
+
+
