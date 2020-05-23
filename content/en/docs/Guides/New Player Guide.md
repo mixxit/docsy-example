@@ -38,7 +38,7 @@ When you have picked your race and class you will need to decide which type of p
 
 We currently cater for two types of players, Roleplayers and RPG players! 
 
-For roleplayers, which is mainly socialisation and creative building - you will simple be able to get straight to it
+For roleplayers, which is mainly socialisation and creative building - you will simply be able to get straight to it
 
 For adventurers/rpg players, its a bit more complicated as [you need to install our Mod](https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920) for the best type of play (it has target bars, spell systems, pet controls, auto attack that wasnt possible with just a plugin)
 
