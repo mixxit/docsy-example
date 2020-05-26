@@ -42,6 +42,8 @@ This is currently a playable race
 
 # Basic information
 
+Due to their scaled skin, all lidkim gain a bonus to natural armour class rolls and can breath underwater
+
 # History
 
 The Lizardmen can trace their roots to the Acacia. Something unusual happened on this island many thousands of years ago that raised the entire western portion of the land and scorched the once wild forests that covered it. During this time, the Lidkim speak of a curse that tainted their kin and transformed them into cannibals resulting in the the total annihilation of their capital, Chelthix.
