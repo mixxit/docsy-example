@@ -14,23 +14,23 @@ Garuda
 
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
-<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">{{{Name}}}</th></tr>
+<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">Garuda</th></tr>
 <tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/garuda.png" width="250" height="461"></td></tr>
-<tr><th colspan="2" class="color1"> Race</th></tr>
-<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> {{{Name}}}</td></tr>
-<tr><td> <b>Common Name</b></td><td> {{{commonname}}}</td></tr>
-<tr><td> <b>Starting Stats</b></td><td> {{{Starting Stats}}}</td></tr>
-<tr><td> <b>Professions</b></td><td> {{{Classes}}}</td></tr>
-<tr><td> <b>Alliance</b></td><td> {{{alliance}}}</td></tr>
-<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td> {{{alignment}}}</td></tr>
-<tr><td> <b>Language</b></td><td> [[Languages#{{{languages}}}|{{{languages}}}]]</td></tr>
-<tr><td> <b>Height</b></td><td> {{{height}}}</td></tr>
-<tr><td> <b>Skincolor</b></td><td> {{{skincolor}}}</td></tr>
-<tr><td> <b>Haircolor</b></td><td> {{{haircolor}}}</td></tr>
-<tr><td> <b>Lifespan</b></td><td> {{{lifespan}}}</td></tr>
-<tr><td> <b>Diet</b></td><td> {{{diet}}}</td></tr>
-<tr><td> <b>Distinctions</b></td><td> {{{distinctions}}}</td></tr>
-<tr><td> <b>God worshipped</b></td><td> [[Gods#{{{gods}}}|{{{gods}}}]]</td></tr>
+<tr><th colspan="2" class="color1">Race</th></tr>
+<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;">Garuda</td></tr>
+<tr><td> <b>Common Name</b></td><td>Guruda, Birdmen</td></tr>
+<tr><td> <b>Starting Stats</b></td><td>STR 70 STA 65 AGI 95 DEX 90 INT 75 WIS 80 CHA 85</td></tr>
+<tr><td> <b>Professions</b></td><td>WAR RNG WIZ SHM DRU BER</td></tr>
+<tr><td> <b>Alliance</b></td><td>None</td></tr>
+<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>NEUTRAL-GOOD</td></tr>
+<tr><td> <b>Language</b></td><td>Garuda</td></tr>
+<tr><td> <b>Height</b></td><td>5 feet</td></tr>
+<tr><td> <b>Skincolor</b></td><td>Feathered</td></tr>
+<tr><td> <b>Haircolor</b></td><td>Nearly all</td></tr>
+<tr><td> <b>Lifespan</b></td><td>30</td></tr>
+<tr><td> <b>Diet</b></td><td>Variety depending on breed</td></tr>
+<tr><td> <b>Distinctions</b></td><td>Vivid coloured feathers</td></tr>
+<tr><td> <b>God worshipped</b></td><td>Amonsul, Goryan, Xetizel</td></tr>
 </tbody>
 </table>
 
