@@ -54,7 +54,7 @@ The Anushi are proud, and sometimes hot tempered. They are brutal in combat but,
 
 The last survivors of the Anushi of Qylia were able to successfully lead a guerilla campaign against the Caerthians with the aid of the Keladun and Aerindal. The Anushi owe a great debt to both of these races and have followed them across the world after the devestating battle of Eindel.
 
-Currently Tanqara on the island of Utra is recognised as the capitol of the new, free, anushi kingdom which has founded strong friendships with the Lidkim of the West. It is currently ruled by Crusader King Veran Shar who was responsible for its construction in the year 197084. King Veran led his people from the Meorei city of Ambreka in the east and settled in a ravin win the Slepeing Sands where has has been ruling ever since.
+Currently Tanqara on the island of Utra is recognised as the capitol of the new, free, anushi kingdom which has founded strong friendships with the Lidkim of the West. It is currently ruled by Crusader King Veran Shar who was responsible for its construction in the year 197084. King Veran led his people from the Meorei city of Ambreka in the east and settled in a ravine within the Sleeping Sands where he has has been ruling ever since.
 
 Recently the Anushi have began to wage war with the Kenku of the Blackfeather Plains following the assassination of Prince Kaeden Shar.
 
