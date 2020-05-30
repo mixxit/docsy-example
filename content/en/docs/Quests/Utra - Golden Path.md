@@ -80,6 +80,8 @@ Overseer Juco says So that is some good news at least. So there are more of you 
 
 You receive quest Something Stirs
 
+Kill Lord Hezic at  -2616.0,70.0,-674.0 and loot his head
+
 You give Overseer Juco The_Head_of_Lord_Hezic
 
 Goodness! Goblins this far north of the dragonspine? But for what purpose and why now? With Necromancer now dead we will send up a small unit to clean up the risen and put them back in the ground where they belong. Now while you were gone I had a chance to speak to Aski and your friend Ayla who both confirmed what you said. Due to this, I spoke with the council and they all agreed to despatch supplies to your fellow survivors. Now, they wish to speak to you so please speak to one of the guards outside and tell them you have been sent for
