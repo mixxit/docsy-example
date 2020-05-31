@@ -16,1192 +16,598 @@ A mysterious cultist and armed guard requisition Egg Warmers from the city of Ze
 
 # Chat Text
 
-2019:|Ela smirks at the strangers and slowly shuffles her cards
+(1):2019:|Ela smirks at the strangers and slowly shuffles her cards
 
-[7:56 PM]
+(3):2019:|Scinthia_NReth folds her arms 'I think ive seen you lot about causing trouble before'
 
-2019:|Scinthia_NReth folds her arms 'I think ive seen you lot about causing trouble before'
+(5):2019:~One_Eye the Chieftain: Welcome, everyone.
 
-[7:56 PM]
+(7):2019:|Scinthia_NReth beckons the dead
 
-2019:~One_Eye the Chieftain: Welcome, everyone.
+(9):2019:|Ela consults the dead in reading her fortune for today
 
-[7:57 PM]
+(11):2019:|Scinthia_NReth holds out her hand as a boney arm reaches out from the earth
 
-2019:|Scinthia_NReth beckons the dead
+(13):2019:|Duradae_Olath gazes in awe at the necromancers dark magic
 
-[7:57 PM]
+(15):2019:~Scinthia_NReth: They reproduce? I can't imagine..
 
-2019:|Ela consults the dead in reading her fortune for today
+(17):2019:|Fran looks at the necromancer {I wonder how he's faring...} then looks at the cultist
 
-[7:58 PM]
+(21):2019:~Scinthia_NReth: And for what?
 
-2019:|Scinthia_NReth holds out her hand as a boney arm reaches out from the earth
+(25):2019:|Scinthia_NReth notices the hulking figure, 'Oh my, you are fascinating'
 
-[7:58 PM]
+(29):2019:~Fran the Shadow of Rarahat: Ela damn, you look sick in that outfit!))
 
-2019:|Duradae_Olath gazes in awe at the necromancers dark magic
+(33):2019:|Ela stares at the giant from the shadows, and wonders what it's flesh tastes like
 
-[7:58 PM]
+(37):2019:|Ela wonders what the cultist is saying, but shrugs and watches the other necromancer
 
-2019:~Scinthia_NReth: They reproduce? I can't imagine..
+(41):2019:~Scinthia_NReth: Must we do this in such a rush?
 
-[7:59 PM]
+(45):2019:|Duradae_Olath wishes he learned gialon, then shrugs and decides not to worry about it
 
-2019:|Fran looks at the necromancer {I wonder how he's faring...} then looks at the cultist
+(49):2019:~Ferox_Ragash the Weary: How many we expect?
 
-[7:59 PM]
+(53):2019:~Scinthia_NReth: Wonderful
 
-2019:~Scinthia_NReth: And for what?
+(57):2019:|Scinthia_NReth licks her lips in thought
 
-[7:59 PM]
+(61):2019:|Ferox_Ragash wipes her nose on the back of her hand. "Me love surprise."
 
-2019:|Scinthia_NReth notices the hulking figure, 'Oh my, you are fascinating'
+(65):2019:|Hulking_Figure appears in full armor and cloaked. It is impossible to see its form under all the concealing items, though it looks massive.
 
-[8:00 PM]
+(69):2019:~Duradae_Olath: hi?
 
-2019:~Fran the Shadow of Rarahat: Ela damn, you look sick in that outfit!))
+(73):2019:|Ela smirks and dashes away
 
-[8:00 PM]
+(77):2019:|Duradae_Olath looks confused
 
-2019:|Ela stares at the giant from the shadows, and wonders what it's flesh tastes like
+(81):2019:~Scinthia_NReth: About the pay...
 
-[8:00 PM]
+(85):2019:|Fran looking at the tall figure already has an idea on what race might be, hearing about the pay she suddendly starts looking at the cultis
 
-2019:|Ela wonders what the cultist is saying, but shrugs and watches the other necromancer
+(89):2019:~Scinthia_NReth: I would prefer the corpses
 
-[8:01 PM]
+(93):2019:|Scinthia_NReth smirks
 
-2019:~Scinthia_NReth: Must we do this in such a rush?
+(97):2019:~Scinthia_NReth: The children do look oh so adaptable
 
-[8:02 PM]
+(101):2019:|Fran smiles under the mask "really? I'll wait for this promise of yours"
 
-2019:|Duradae_Olath wishes he learned gialon, then shrugs and decides not to worry about it
+(105):2019:|Duradae_Olath wonders why they're talking about pay
 
-[8:02 PM]
+(109):2019:|Ela passively wonders what all the strange people in strange outfits are talking about in their strange languages
 
-2019:~Ferox_Ragash the Weary: How many we expect?
+(113):2019:|Duradae_Olath trys to understand what the cultist is talking about, and fails
 
-[8:02 PM]
+(117):2019:~Ferox_Ragash the Weary: What do with little kenku? or eggs?
 
-2019:~Scinthia_NReth: Wonderful
+(121):2019:|Scinthia_NReth looks down at her wrist, noticing the decay, she looks displeased and impatient
 
-[8:03 PM]
+(125):2019:|Hulking_Figure stirs ever so slightly.
 
-2019:|Scinthia_NReth licks her lips in thought
+(129):2019:|Ferox_Ragash looks shocked at the voice for a moment
 
-[8:04 PM]
+(133):2019:~Ferox_Ragash the Weary: Why you call me that..
 
-2019:|Ferox_Ragash wipes her nose on the back of her hand. "Me love surprise."
+(137):2019:~Ferox_Ragash the Weary: Who say you call me that?
 
-[8:04 PM]
+(141):2019:|One_Eye goes rigid and completely still. His eyes dart back and forth between the cultist and the hulking undead figure.
 
-2019:|Hulking_Figure appears in full armor and cloaked. It is impossible to see its form under all the concealing items, though it looks massive.
+(145):2019:|Duradae_Olath backs away from the hulking figure and the cultist slowly
 
-[8:06 PM]
+(149):2019:|Ferox_Ragash narrows her eyes, looking over the Cultist carefully. "Me do what me told..."
 
-2019:~Duradae_Olath: hi?
+(153):2019:|Fran looks at both the cultist and the figure
 
-[8:06 PM]
+(157):2019:|Hulking_Figure begins to edge forward, but is stopped by an outstretched hand of the cultist.
 
-2019:|Ela smirks and dashes away
+(161):2019:|Duradae_Olath looks confused
 
-[8:06 PM]
+(165):2019:|Scinthia_NReth looks excited at the prospect of the carnage such a massive creature could unleash - she observes with glee
 
-2019:|Duradae_Olath looks confused
+(169):2019:|Duradae_Olath starts worrying about what to do if a fight erupts
 
-[8:06 PM]
+(173):2019:~Fran the Shadow of Rarahat: {The wandering duke eh, I'll search information about him later}
 
-2019:~Scinthia_NReth: About the pay...
+(177):2019:|One_Eye rumbles impatiently and begins to slowly lumber toward Zerzura.
 
-[8:07 PM]
+(181):2019:|Ferox_Ragash slowly catches up to One Eye, her eyes still narrowed and skeptical
 
-2019:|Fran looking at the tall figure already has an idea on what race might be, hearing about the pay she suddendly starts looking at the cultis
+(185):2019:|Fran looks at the party killing a scout {Mindless like the before me}
 
-[8:07 PM]
+(189):2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
 
-2019:~Scinthia_NReth: I would prefer the corpses
+(193):2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
 
-[8:07 PM]
+(197):2019:|Ela frowns at the strange language coming from the mouth of this mortal
 
-2019:|Scinthia_NReth smirks
+(201):2019:~Ela the Nightwalker: Who are you?
 
-[8:07 PM]
+(205):2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
 
-2019:~Scinthia_NReth: The children do look oh so adaptable
+(209):2019:~Ela the Nightwalker: ahh lol)
 
-[8:07 PM]
+(213):2019:~Ela the Nightwalker: rip)
 
-2019:|Fran smiles under the mask "really? I'll wait for this promise of yours"
+(217):2019:|Duradae_Olath aproches cautiously
 
-[8:08 PM]
+(221):2019:|Duradae_Olath attempts to comunicate
 
-2019:|Duradae_Olath wonders why they're talking about pay
+(225):2019:|Scinthia_NReth ignores the tender and looks over the eggs
 
-[8:08 PM]
+(229):2019:~Duradae_Olath: hello
 
-2019:|Ela passively wonders what all the strange people in strange outfits are talking about in their strange languages
+(233):2019:|Duradae_Olath backs away
 
-[8:09 PM]
+(237):2019:~Scinthia_NReth: Well are we just going to stand here?
 
-2019:|Duradae_Olath trys to understand what the cultist is talking about, and fails
+(241):2019:|Duradae_Olath shouts from outside the nest "are you huys friendly?
 
-[8:09 PM]
+(245):2019:~Scinthia_NReth: He has asked us to leave
 
-2019:~Ferox_Ragash the Weary: What do with little kenku? or eggs?
+(249):2019:|Duradae_Olath looks at one_eye "what should we do?"
 
-[8:09 PM]
+(253):2019:~Ferox_Ragash the Weary: What we wait for?
 
-2019:|Scinthia_NReth looks down at her wrist, noticing the decay, she looks displeased and impatient
+(257):2019:|Duradae_Olath attacks
 
-[8:09 PM]
+(261):2019:|Scinthia_NReth looks at her nails
 
-2019:|Hulking_Figure stirs ever so slightly.
+(265):2019:|Scinthia_NReth smiles 'Oh good'
 
-[8:09 PM]
+(269):2019:|Ela is tired from the travel here and reaches out and drains some energy from the nearest living thing
 
-2019:|Ferox_Ragash looks shocked at the voice for a moment
+(273):2019:|Duradae_Olath investigates room
 
-[8:10 PM]
+(277):2019:|Duradae_Olath walks over to the eggs
 
-2019:~Ferox_Ragash the Weary: Why you call me that..
+(281):2019:~One_Eye the Chieftain: You find egg warmy thingiez?
 
-[8:10 PM]
+(285):2019:|Scinthia_NReth starts sawing at the beaks of one of the kenku
 
-2019:~Ferox_Ragash the Weary: Who say you call me that?
+(289):2019:~Ferox_Ragash the Weary: We no harm eggs
 
-[8:10 PM]
+(293):2019:|Duradae_Olath looks at the rest of the group "what should we do with the eggs?"
 
-2019:|One_Eye goes rigid and completely still. His eyes dart back and forth between the cultist and the hulking undead figure.
+(297):2019:|One_Eye looks at Ferox and considers.
 
-[8:11 PM]
+(301):2019:~One_Eye the Chieftain: Ferox say no harm. You no harm.
 
-2019:|Duradae_Olath backs away from the hulking figure and the cultist slowly
+(305):2019:|Scinthia_NReth places the beak in her garb
 
-[8:11 PM]
+(309):2019:~Ferox_Ragash the Weary: We leave them. Innocent. Not yet born.
 
-2019:|Ferox_Ragash narrows her eyes, looking over the Cultist carefully. "Me do what me told..."
+(313):2019:|Duradae_Olath sits back and considers
 
-[8:11 PM]
+(317):2019:|Scinthia_NReth looks around 'No sign of those things he was asking for?'
 
-2019:|Fran looks at both the cultist and the figure
+(321):2019:|Ferox_Ragash looks to One Eye for a moment. "Baby innocent..can be taught good."
 
-[8:11 PM]
+(325):2019:~One_Eye the Chieftain: Ferox say no kill. We no kill.
 
-2019:|Hulking_Figure begins to edge forward, but is stopped by an outstretched hand of the cultist.
+(329):2019:~Ferox_Ragash the Weary: We go then.
 
-[8:12 PM]
+(333):2019:|Duradae_Olath picks up an egg, looks at it, and decides to put it in his bag for safe keeping
 
-2019:|Duradae_Olath looks confused
+(337):2019:|Ferox_Ragash growls. "Put back now"
 
-[8:12 PM]
+(341):2019:|Scinthia_NReth looks a little shocked but tries to hide it 'I was just admiring it dear'
 
-2019:|Scinthia_NReth looks excited at the prospect of the carnage such a massive creature could unleash - she observes with glee
+(345):2019:|Scinthia_NReth places it back into the nest
 
-[8:12 PM]
+(349):2019:~Ferox_Ragash the Weary: No harm to eggies. NONE
 
-2019:|Duradae_Olath starts worrying about what to do if a fight erupts
+(353):2019:|Scinthia_NReth waves her hand 'Yes yes, fine'
 
-[8:12 PM]
+(357):2019:|Ela smiles widely at the skeleton and fades back up
 
-2019:~Fran the Shadow of Rarahat: {The wandering duke eh, I'll search information about him later}
+(361):2019:|Duradae_Olath looks up "hello?"
 
-[8:13 PM]
+(365):2019:|One_Eye looks at his bear form and at the ladder
 
-2019:|One_Eye rumbles impatiently and begins to slowly lumber toward Zerzura.
+(369):2019:|Scinthia_NReth looks angry, 'I hate heights'
 
-[8:14 PM]
+(373):2019:|Duradae_Olath picks up a kenku egg that fell when the warden died
 
-2019:|Ferox_Ragash slowly catches up to One Eye, her eyes still narrowed and skeptical
+(377):2019:|Scinthia_NReth steps over the bodies
 
-[8:14 PM]
+(381):2019:|Duradae_Olath looks around
 
-2019:|Fran looks at the party killing a scout {Mindless like the before me}
+(385):2019:|Ferox_Ragash watches over the eggs carefully
 
-[8:16 PM]
+(389):2019:|Ferox_Ragash picks up the larger egg, looking over it carefully
 
-2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
+(393):2019:|Ela looks at the colored eggs with interest, and wonders what they taste like
 
-[8:16 PM]
+(397):2019:~Ferox_Ragash the Weary: This no Kenku egg
 
-2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
+(401):2019:~One_Eye the Chieftain: You keep.
 
-[8:16 PM]
+(405):2019:|Scinthia_NReth wonders what you found
 
-2019:|Ela frowns at the strange language coming from the mouth of this mortal
+(409):2019:|Ferox_Ragash nods slowly and holds the egg in the crook of her non weapon arm. "Me keep safe."
 
-[8:16 PM]
+(413):2019:~One_Eye the Chieftain: More rooms. Come.
 
-2019:~Ela the Nightwalker: Who are you?
+(417):2019:~Ferox_Ragash the Weary: Go. Me leave last
 
-[8:16 PM]
+(421):2019:|Duradae_Olath shifts his bag around, like he is trying to reajust something fragile
 
-2019:~Ailin_Darkashe the Deadly Needle: I'm not partecipating))
+(425):2019:|Scinthia_NReth looks ill as her health flows to Ela
 
-[8:17 PM]
+(429):2019:~Ferox_Ragash the Weary: We go.
 
-2019:~Ela the Nightwalker: ahh lol)
+(433):2019:|Ela feels exhilarated as life flows into her undead body, and looks for the source
 
-[8:17 PM]
+(437):2019:~Ferox_Ragash the Weary: Me go last. You leave first. go
 
-2019:~Ela the Nightwalker: rip)
+(441):2019:|Duradae_Olath decides to check the outside of the nest
 
-[8:20 PM]
+(445):2019:~One_Eye the Chieftain: Come. We do more fighty.
 
-2019:|Duradae_Olath aproches cautiously
+(449):2019:|Scinthia_NReth sighs 'Fine'
 
-[8:20 PM]
+(453):2019:|Duradae_Olath sits down for a moment
 
-2019:|Duradae_Olath attempts to comunicate
+(457):2019:|Duradae_Olath stands and stretches
 
-[8:20 PM]
+(461):2019:|Ferox_Ragash checks each of the nests carefully.
 
-2019:|Scinthia_NReth ignores the tender and looks over the eggs
+(465):2019:~Scinthia_NReth: did we not hire swords for this laborous melee combat
 
-[8:20 PM]
+(469):2019:|One_Eye snorts. "Swords are strong. But not as strong as the spirits."
 
-2019:~Duradae_Olath: hello
+(473):2019:|Duradae_Olath pickes up a spell book and decides to keep it for later
 
-[8:21 PM]
+(477):2019:|Duradae_Olath glances about
 
-2019:|Duradae_Olath backs away
+(481):2019:|Duradae_Olath doesn't see much
 
-[8:22 PM]
+(485):2019:|Duradae_Olath rubs his eyes, and looks again
 
-2019:~Scinthia_NReth: Well are we just going to stand here?
+(489):2019:|Ferox_Ragash shifts the egg under her armpit
 
-[8:22 PM]
+(493):2019:|Scinthia_NReth rubs hands
 
-2019:|Duradae_Olath shouts from outside the nest "are you huys friendly?
+(497):2019:~Ferox_Ragash the Weary: No harm eggs...
 
-[8:22 PM]
+(501):2019:|Duradae_Olath looks disapointed as scinthia finds a special egg
 
-2019:~Scinthia_NReth: He has asked us to leave
+(505):2019:~Fran the Deathdealer: lol hi))
 
-[8:23 PM]
+(509):2019:~Fran the Deathdealer: the skinned prince teamed with the prison guard
 
-2019:|Duradae_Olath looks at one_eye "what should we do?"
+(513):2019:~Fran the Deathdealer: ))
 
-[8:23 PM]
+(517):2019:|Scinthia_NReth makes a highpitch squeel as she realises she gets away with something
 
-2019:~Ferox_Ragash the Weary: What we wait for?
+(521):2019:|Duradae_Olath shakes his head and laughs a little
 
-[8:24 PM]
+(525):2019:|Ela looks at the blood spattered air elemental and smiles.
 
-2019:|Duradae_Olath attacks
+(529):2019:~One_Eye the Chieftain: We go.
 
-[8:24 PM]
+(533):2019:~Fran the Deathdealer: I'm cloaked too like hulky figure xD))
 
-2019:|Scinthia_NReth looks at her nails
+(537):2019:~Fran the Deathdealer: I'm inv lol))
 
-[8:24 PM]
+(541):2019:|Duradae_Olath thinks about what would happen if he tried necromancy, then cringes and shakes his head
 
-2019:|Scinthia_NReth smiles 'Oh good'
+(545):2019:~Fran the Deathdealer: do I roll for perception?))
 
-[8:24 PM]
+(549):2019:|Duradae_Olath decides to climb up a bit higher and see what he can see
 
-2019:|Ela is tired from the travel here and reaches out and drains some energy from the nearest living thing
+(553):2019:|Ela glares at the undead servant she summoned and commands it to follow er exact orders and to stop running off
 
-[8:25 PM]
+(557):2019:~Fran the Deathdealer: ok))
 
-2019:|Duradae_Olath investigates room
+(561):2019:|Duradae_Olath gazes over the city
 
-[8:26 PM]
+(565):2019:|Duradae_Olath climbes down
 
-2019:|Duradae_Olath walks over to the eggs
+(569):2019:~Scinthia_NReth: nice arm bone dear
 
-[8:26 PM]
+(573):2019:|Duradae_Olath admires feroxes strength, and wishes he could be as combat strong as an orc
 
-2019:~One_Eye the Chieftain: You find egg warmy thingiez?
+(577):2019:|Ela smiles "Thank you, I harvested it myself
 
-[8:26 PM]
+(581):2019:|Duradae_Olath gets slightly creeped out by the skelleton next to him
 
-2019:|Scinthia_NReth starts sawing at the beaks of one of the kenku
+(585):2019:~Fran the Deathdealer: now I'm really mad))
 
-[8:26 PM]
+(589):2019:~Fran the Deathdealer: and I'm gonna use my strongest weapon))
 
-2019:~Ferox_Ragash the Weary: We no harm eggs
+(593):2019:~Fran the Deathdealer: itemlink
 
-[8:26 PM]
+(597):2019:|Scinthia_NReth holds the jaw of the skeleton and makes it pretend to talk to him
 
-2019:|Duradae_Olath looks at the rest of the group "what should we do with the eggs?"
+(601):2019:|Duradae_Olath laughes sarcasticly then smiles
 
-[8:26 PM]
+(605):2019:|Fran looks at what she got from the kenkus and mutters "worthless"
 
-2019:|One_Eye looks at Ferox and considers.
+(609):2019:|Ela sticks her tongue at the kenku villagers
 
-[8:26 PM]
+(613):2019:|Duradae_Olath wonders if someone should help Ferox with his inguries
 
-2019:~One_Eye the Chieftain: Ferox say no harm. You no harm.
+(617):2019:|Ela points her finger at them "Go, skully, kill
 
-[8:27 PM]
+(621):2019:|Ela gives the bullywug a big hug, as it squirms and tries to keep punching her. She hugs tighter as she slowly begins sapping the life out of it
 
-2019:|Scinthia_NReth places the beak in her garb
+(625):2019:~Scinthia_NReth: that was deliciously horrible dear
 
-[8:27 PM]
+(629):2019:|Duradae_Olath gets hit unconsious
 
-2019:~Ferox_Ragash the Weary: We leave them. Innocent. Not yet born.
+(633):2019:|Scinthia_NReth points a finger to the air 'Erm, there may be a frog thing on the way'
 
-[8:27 PM]
+(637):2019:~Fran the Deathdealer: can I roll perception?
 
-2019:|Duradae_Olath sits back and considers
+(641):2019:~Fran the Deathdealer: ))
 
-[8:27 PM]
+(645):2019:|Ela examines her new kenku bone with delight
 
-2019:|Scinthia_NReth looks around 'No sign of those things he was asking for?'
+(649):2019:|Duradae_Olath shakes his head drearily as he wakes up "what happend?"
 
-[8:28 PM]
+(653):2019:~Fran the Deathdealer: can I roll for perception for the eggs?))
 
-2019:|Ferox_Ragash looks to One Eye for a moment. "Baby innocent..can be taught good."
+(657):2019:|Scinthia_NReth takes a deep breath of relaxation
 
-[8:28 PM]
+(661):2019:|Ela smiles widely as she begins trying to raise one of the kenku into her new friend
 
-2019:~One_Eye the Chieftain: Ferox say no kill. We no kill.
+(665):2019:~Scinthia_NReth: What a lovely stench
 
-[8:28 PM]
+(669):2019:~Fran the Deathdealer: oof))
 
-2019:~Ferox_Ragash the Weary: We go then.
+(673):2019:|Duradae_Olath decides to investigate the egg mother
 
-[8:29 PM]
+(677):2019:~Ferox_Ragash the Weary: Me no see nest. Why no nest with mother?
 
-2019:|Duradae_Olath picks up an egg, looks at it, and decides to put it in his bag for safe keeping
+(681):2019:~One_Eye the Chieftain: How many egg thingiez you have everyone?
 
-[8:30 PM]
+(685):2019:|Fran shows hers "five"
 
-2019:|Ferox_Ragash growls. "Put back now"
+(689):2019:|Ela laughs as the kenku gets up and lumbers over to her "You will be my new friend. I'll name you beakbone
 
-[8:31 PM]
+(693):2019:~Scinthia_NReth: I have one of these things itemlink
 
-2019:|Scinthia_NReth looks a little shocked but tries to hide it 'I was just admiring it dear'
+(697):2019:|Scinthia_NReth waves it around
 
-[8:31 PM]
+(701):2019:~Ferox_Ragash the Weary: Me just have not Kenku egg. Me no know what type of egg
 
-2019:|Scinthia_NReth places it back into the nest
+(705):2019:~One_Eye the Chieftain: Come, we go back.
 
-[8:31 PM]
+(709):2019:~Duradae_Olath: i have two egg warmeres
 
-2019:~Ferox_Ragash the Weary: No harm to eggies. NONE
+(713):2019:|Duradae_Olath shows them
 
-[8:31 PM]
+(717):2019:~Fran the Butcher of Qylia: do we have to fight anymore peeps?))
 
-2019:|Scinthia_NReth waves her hand 'Yes yes, fine'
+(721):2019:|Ela laughs "Come, beakbone, let's do a blinking contest........................... awwww I ALWAYS lose...."
 
-[8:32 PM]
+(725):2019:~One_Eye the Chieftain: )not unless you start something
 
-2019:|Ela smiles widely at the skeleton and fades back up
+(729):2019:|Scinthia_NReth pulls out an blue illuminous dark elf treat - she pops it in her mouth and you hear the cracking and a large pop of something puss filled bursting in her mouth
 
-[8:33 PM]
+(733):2019:~Fran the Butcher of Qylia: maybe I'll start something xD))
 
-2019:|Duradae_Olath looks up "hello?"
+(737):2019:~One_Eye the Chieftain: (((feel free
 
-[8:33 PM]
+(741):2019:|Duradae_Olath wonders what that treat was
 
-2019:|One_Eye looks at his bear form and at the ladder
+(745):2019:~One_Eye the Chieftain: (if it involves my cultis or Hulking please let me know first in whisper
 
-[8:33 PM]
+(749):2019:~Fran the Butcher of Qylia: Connesso con MineChat
 
-2019:|Scinthia_NReth looks angry, 'I hate heights'
+(753):2019:~Fran the Butcher of Qylia: gotta go to eat)) Im using minechat
 
-[8:34 PM]
+(757):2019:|Duradae_Olath tries to catch up as fast as he can
 
-2019:|Duradae_Olath picks up a kenku egg that fell when the warden died
+(761):2019:~One_Eye the Chieftain: (kk
 
-[8:34 PM]
+(765):2019:|Ferox_Ragash sits down and rests the odd egg in her lap
 
-2019:|Scinthia_NReth steps over the bodies
+(769):2019:|Scinthia_NReth comes into distance pulling some old sack full of bodies or bones, you're not quite sure
 
-[8:34 PM]
+(773):2019:~Scinthia_NReth: sorry im here
 
-2019:|Duradae_Olath looks around
+(777):2019:|Duradae_Olath wonders why she needs that bag of corpses
 
-[8:35 PM]
+(781):2019:|Fran with her cloak coated in red looks at the cultist
 
-2019:|Ferox_Ragash watches over the eggs carefully
+(785):2019:|Scinthia_NReth wipes her forehead
 
-[8:36 PM]
+(789):2019:|Duradae_Olath wonders what ela is hiding
 
-2019:|Ferox_Ragash picks up the larger egg, looking over it carefully
+(793):2019:|Scinthia_NReth bows
 
-[8:36 PM]
+(797):2019:|One_Eye lumbers forward. "Me find five.
 
-2019:|Ela looks at the colored eggs with interest, and wonders what they taste like
+(801):2019:|Ela touches Fran's cloak, and licks her finger, loudly smacking at the kenku blood "eww.. too tart"
 
-[8:36 PM]
+(805):2019:~Scinthia_NReth: i found one, but its rather nice compared to theirs
 
-2019:~Ferox_Ragash the Weary: This no Kenku egg
+(809):2019:|Hulking_Figure picks up the items
 
-[8:36 PM]
+(813):2019:|Scinthia_NReth smiles 'Quality over Quantity dear'
 
-2019:~One_Eye the Chieftain: You keep.
+(817):2019:|Fran frowns and look at ela "dont do that again"
 
-[8:37 PM]
+(821):2019:|Scinthia_NReth points at the person she gave it to
 
-2019:|Scinthia_NReth wonders what you found
+(825):2019:~Fran the Butcher of Qylia: wait))
 
-[8:37 PM]
+(829):2019:|Duradae_Olath gives up on trying to understand the cultist
 
-2019:|Ferox_Ragash nods slowly and holds the egg in the crook of her non weapon arm. "Me keep safe."
+(833):2019:~Fran the Butcher of Qylia: i havve 5 ))
 
-[8:37 PM]
+(837):2019:|Ferox_Ragash watches the Cultist carefully
 
-2019:~One_Eye the Chieftain: More rooms. Come.
+(841):2019:~Fran the Butcher of Qylia: yup))
 
-[8:38 PM]
+(845):2019:|Fran hands over her egg war.ers
 
-2019:~Ferox_Ragash the Weary: Go. Me leave last
+(849):2019:~Fran the Butcher of Qylia: warmers*
 
-[8:38 PM]
+(853):2019:|Duradae_Olath wonders if he should give the cultist his egg warmers
 
-2019:|Duradae_Olath shifts his bag around, like he is trying to reajust something fragile
+(857):2019:|Scinthia_NReth glares at the others
 
-[8:38 PM]
+(861):2019:~Scinthia_NReth: Im sure we have more
 
-2019:|Scinthia_NReth looks ill as her health flows to Ela
+(865):2019:|Scinthia_NReth laughs nervously
 
-[8:39 PM]
+(869):2019:|One_Eye rumbles in annoyance.
 
-2019:~Ferox_Ragash the Weary: We go.
+(873):2019:|Fran looks at the cultist " I wouldnt do that"
 
-[8:39 PM]
+(877):2019:~One_Eye the Chieftain: You no attack with you guard. We have.
 
-2019:|Ela feels exhilarated as life flows into her undead body, and looks for the source
+(881):2019:|Duradae_Olath wonder why ela was shooting at the hulking figure, then proceeds to attempt to dodge a barage of arrows
 
-[8:39 PM]
+(885):2019:~One_Eye the Chieftain: All, give egg thingiez.
 
-2019:~Ferox_Ragash the Weary: Me go last. You leave first. go
+(889):2019:|Duradae_Olath hands two egg warmers to the cultist
 
-[8:40 PM]
+(893):2019:|Duradae_Olath makes a mental note to learn gialon
 
-2019:|Duradae_Olath decides to check the outside of the nest
+(897):2019:~Scinthia_NReth: such a nice round number dont you think?
 
-[8:40 PM]
+(901):2019:~Ferox_Ragash the Weary: What you do with eggy warmers?
 
-2019:~One_Eye the Chieftain: Come. We do more fighty.
+(905):2019:|Hulking_Figure lumbers forward and hands one warmer to Ferox with caution.
 
-[8:40 PM]
+(909):2019:|Ela makes a mental note to learn Gialon, then changes her mind as it sounds hard
 
-2019:|Scinthia_NReth sighs 'Fine'
+(913):2019:|Ferox_Ragash takes the warmer carefully, placing the strange egg in it.
 
-[8:41 PM]
+(917):2019:|Scinthia_NReth looks at his pet wondering why it is doing things of its own accord, she glares at it then looks back
 
-2019:|Duradae_Olath sits down for a moment
+(921):2019:|Duradae_Olath wonders if the scinthia's skelleton would still move and fight if he pulled of its head
 
-[8:42 PM]
+(925):2019:|Ferox_Ragash looks a bit skeptically at the Cultist, but watches in silence
 
-2019:|Duradae_Olath stands and stretches
+(929):2019:|Ela tugs some life from a nearby stranger and winks at her as she runs away
 
-[8:43 PM]
+(933):2019:~Fran the Butcher of Qylia: speedrunned dinner xD))
 
-2019:|Ferox_Ragash checks each of the nests carefully.
+(937):2019:~Scinthia_NReth: who is this duke
 
-[8:43 PM]
+(941):2019:|Scinthia_NReth ponders
 
-2019:~Scinthia_NReth: did we not hire swords for this laborous melee combat
+(945):2019:|Duradae_Olath sits down, tired from the days work
 
-[8:43 PM]
+(949):2019:~Scinthia_NReth: Revolution over what?
 
-2019:|One_Eye snorts. "Swords are strong. But not as strong as the spirits."
+(953):2019:|Ela pulls out a dark red concoction and smiles mischeviously as she takes a sip
 
-[8:43 PM]
+(957):2019:~Scinthia_NReth: Oh now there are four of them
 
-2019:|Duradae_Olath pickes up a spell book and decides to keep it for later
+(961):2019:|Ela perks up at the sound of a revolution
 
-[8:44 PM]
+(965):2019:~Scinthia_NReth: Well i do hope you will put in a good word for us dear
 
-2019:|Duradae_Olath glances about
+(969):2019:|Scinthia_NReth wafts away the flies gathering over her bag 'Maybe one day, he might grant us an audience? Now we have shown how capable we are?'
 
-[8:44 PM]
+(973):2019:~Duradae_Olath: hey scinthia, whats this about a revolution?
 
-2019:|Duradae_Olath doesn't see much
+(977):2019:|Hulking_Figure looks at Ferox and makes a horrible sound. It is the sound of someone breathing out through frayed vocal cords. There are no words. Just a tattered groaning sound.
 
-[8:45 PM]
+(981):2019:~Ferox_Ragash the Weary: Do me know you?
 
-2019:|Duradae_Olath rubs his eyes, and looks again
+(985):2019:|Scinthia_NReth whispers quitely towards duradae 'Something he said' she points at the cultist
 
-[8:45 PM]
+(989):2019:|Ferox_Ragash stands and tucks the egg and warmer under her large arm
 
-2019:|Ferox_Ragash shifts the egg under her armpit
+(993):2019:|Hulking_Figure does not respond because the cultist holds out a hand to stop the figure from doing anything more.
 
-[8:45 PM]
+(997):2019:~Fran the Butcher of Qylia: just say thanks that I'm mentored down e.e))
 
-2019:|Scinthia_NReth rubs hands
+(1001):2019:|Duradae_Olath whispers back "i dont understand him tho", he quietly laughs
 
-[8:45 PM]
+(1005):2019:|Ferox_Ragash looks to the Cultist. "You call me orctress..and big person want speak. Let speak..."
 
-2019:~Ferox_Ragash the Weary: No harm eggs...
+(1009):2019:~Scinthia_NReth: Something about a duke dear, hes starting a revolution for the undead
 
-[8:46 PM]
+(1013):2019:|Ferox_Ragash slowly walks forward to the pair
 
-2019:|Duradae_Olath looks disapointed as scinthia finds a special egg
+(1017):2019:~Duradae_Olath: ahhh
 
-[8:47 PM]
+(1021):2019:|Duradae_Olath gets intimitated by ferox's glowing red eyes
 
-2019:~Fran the Deathdealer: lol hi))
+(1025):2019:|Hulking_Figure turns his huge head toward the Orctress but makes no sound.
 
-[8:47 PM]
+(1029):2019:~Ferox_Ragash the Weary: You free to speak to me...if can
 
-2019:~Fran the Deathdealer: the skinned prince teamed with the prison guard
+(1033):2019:|Hulking_Figure looks at the cultist then back. It lets out another horrible hissing, grating sound that is a terrible immitaion of speech.
 
-[8:47 PM]
+(1037):2019:~Ferox_Ragash the Weary: You sound in pain
 
-2019:~Fran the Deathdealer: ))
+(1041):2019:|Hulking_Figure shakes his head no.
 
-[8:47 PM]
+(1045):2019:~Ferox_Ragash the Weary: So you no in pain?
 
-2019:|Scinthia_NReth makes a highpitch squeel as she realises she gets away with something
+(1049):2019:|Hulking_Figure shakes its head no.
 
-[8:47 PM]
+(1053):2019:|Scinthia_NReth laughs nervously for her companions
 
-2019:|Duradae_Olath shakes his head and laughs a little
+(1057):2019:~Ferox_Ragash the Weary: You happy? You free?
 
-[8:48 PM]
+(1061):2019:|Hulking_Figure stares at Ferox unmoving.
 
-2019:|Ela looks at the blood spattered air elemental and smiles.
+(1065):2019:|One_Eye moves to Ferox and puts his hand on her shoulder.
 
-[8:48 PM]
+(1069):2019:|One_Eye whispers, "You no look with eyes. You look with spirit."
 
-2019:~One_Eye the Chieftain: We go.
+(1073):2019:|Duradae_Olath glances between the hulking figure and the orctress nervously
 
-[8:48 PM]
+(1077):2019:|One_Eye walks calmly up to the hulking figure and stares it in the face for a time. Then nods and walks away into the forest
 
-2019:~Fran the Deathdealer: I'm cloaked too like hulky figure xD))
+(1081):2019:|Ferox_Ragash shakes her head as her eyes tingle as One Eye allows her to look with the spirits.
 
-[8:49 PM]
+(1085):2019:~Fran the Butcher of Qylia: is everyone looking at ferox and hulking figure?))
 
-2019:~Fran the Deathdealer: I'm inv lol))
+(1089):2019:|Ferox_Ragash she grumbles, frustrated and confused
 
-[8:49 PM]
+(1093):2019:|Fran becomes invisible
 
-2019:|Duradae_Olath thinks about what would happen if he tried necromancy, then cringes and shakes his head
+(1097):2019:|Duradae_Olath gets slightly bored, so he looks over his companions and tries to notice anything intreaging
 
-[8:50 PM]
+(1101):2019:|Ferox_Ragash looks to the Cultist. "Who say to call me Orctress.."
 
-2019:~Fran the Deathdealer: do I roll for perception?))
+(1105):2019:|Scinthia_NReth wafts an ever growing amount of flies away from her bag of bodies
 
-[8:51 PM]
+(1109):2019:|Fran moves while invisible and looks around to see if someone can see her and notes down the people
 
-2019:|Duradae_Olath decides to climb up a bit higher and see what he can see
+(1113):2019:|Duradae_Olath notices a knife in solingkey's hand, and backs away a little
 
-[8:51 PM]
+(1117):2019:|Scinthia_NReth smiles as she pulls the bag by 'Well, this has been lovely, but i must get these back to my menagerie'
 
-2019:|Ela glares at the undead servant she summoned and commands it to follow er exact orders and to stop running off
+(1121):2019:~Scinthia_NReth: cheerio everyone
 
-[8:51 PM]
+(1125):2019:|Duradae_Olath wonders about the ratio of flies to bodyparts in scinthias bag
 
-2019:~Fran the Deathdealer: ok))
+(1129):2019:~Ela the Nightwalker: I have no idea what any of you are saying
 
-[8:52 PM]
+(1133):2019:|Duradae_Olath notices father branen off in the distance, and wonders why he now looks like a dark elf.....
 
-2019:|Duradae_Olath gazes over the city
+(1137):2019:~Fran the Butcher of Qylia: does the cultist have see inv?))
 
-[8:52 PM]
+(1141):2019:|Ferox_Ragash growls, but backs away slowly, still concerned and frustrated
 
-2019:|Duradae_Olath climbes down
+(1145):2019:|Duradae_Olath decides to jump a zerzura scout that is loitering nearby
 
-[8:53 PM]
+(1149):2019:|Duradae_Olath wonders if he should tell anyone what he heard in the good event earlier when he snuck by it, but then remembers that he heard nothing of importance
 
-2019:~Scinthia_NReth: nice arm bone dear
+(1153):2019:|Ela laughs out loud for no apparent reason
 
-[8:53 PM]
+(1157):2019:|Duradae_Olath looks at ela, wonders what she laughed about
 
-2019:|Duradae_Olath admires feroxes strength, and wishes he could be as combat strong as an orc
+(1161):2019:|Fran from the shadows looks at the cultist and waits
 
-[8:54 PM]
+(1165):2019:|Ela shuffles her cards again and looks for someone to ask the dead about
 
-2019:|Ela smiles "Thank you, I harvested it myself
+(1169):2019:|Ferox_Ragash allows her eyes to wander over the group, her eyes only pausing on Fran for a second
 
-[8:54 PM]
-
-2019:|Duradae_Olath gets slightly creeped out by the skelleton next to him
-
-[8:54 PM]
-
-2019:~Fran the Deathdealer: now I'm really mad))
-
-[8:54 PM]
-
-2019:~Fran the Deathdealer: and I'm gonna use my strongest weapon))
-
-[8:54 PM]
-
-2019:~Fran the Deathdealer: itemlink
-
-[8:55 PM]
-
-2019:|Scinthia_NReth holds the jaw of the skeleton and makes it pretend to talk to him
-
-[8:55 PM]
-
-2019:|Duradae_Olath laughes sarcasticly then smiles
-
-[8:55 PM]
-
-2019:|Fran looks at what she got from the kenkus and mutters "worthless"
-
-[8:57 PM]
-
-2019:|Ela sticks her tongue at the kenku villagers
-
-[8:57 PM]
-
-2019:|Duradae_Olath wonders if someone should help Ferox with his inguries
-
-[8:57 PM]
-
-2019:|Ela points her finger at them "Go, skully, kill
-
-[8:59 PM]
-
-2019:|Ela gives the bullywug a big hug, as it squirms and tries to keep punching her. She hugs tighter as she slowly begins sapping the life out of it
-
-[8:59 PM]
-
-2019:~Scinthia_NReth: that was deliciously horrible dear
-
-[8:59 PM]
-
-2019:|Duradae_Olath gets hit unconsious
-
-[9:00 PM]
-
-2019:|Scinthia_NReth points a finger to the air 'Erm, there may be a frog thing on the way'
-
-[9:00 PM]
-
-2019:~Fran the Deathdealer: can I roll perception?
-
-[9:00 PM]
-
-2019:~Fran the Deathdealer: ))
-
-[9:00 PM]
-
-2019:|Ela examines her new kenku bone with delight
-
-[9:01 PM]
-
-2019:|Duradae_Olath shakes his head drearily as he wakes up "what happend?"
-
-[9:01 PM]
-
-2019:~Fran the Deathdealer: can I roll for perception for the eggs?))
-
-[9:01 PM]
-
-2019:|Scinthia_NReth takes a deep breath of relaxation
-
-[9:01 PM]
-
-2019:|Ela smiles widely as she begins trying to raise one of the kenku into her new friend
-
-[9:01 PM]
-
-2019:~Scinthia_NReth: What a lovely stench
-
-[9:01 PM]
-
-2019:~Fran the Deathdealer: oof))
-
-[9:01 PM]
-
-2019:|Duradae_Olath decides to investigate the egg mother
-
-[9:01 PM]
-
-2019:~Ferox_Ragash the Weary: Me no see nest. Why no nest with mother?
-
-[9:01 PM]
-
-2019:~One_Eye the Chieftain: How many egg thingiez you have everyone?
-
-[9:02 PM]
-
-2019:|Fran shows hers "five"
-
-[9:02 PM]
-
-2019:|Ela laughs as the kenku gets up and lumbers over to her "You will be my new friend. I'll name you beakbone
-
-[9:02 PM]
-
-2019:~Scinthia_NReth: I have one of these things itemlink
-
-[9:02 PM]
-
-2019:|Scinthia_NReth waves it around
-
-[9:02 PM]
-
-2019:~Ferox_Ragash the Weary: Me just have not Kenku egg. Me no know what type of egg
-
-[9:02 PM]
-
-2019:~One_Eye the Chieftain: Come, we go back.
-
-[9:03 PM]
-
-2019:~Duradae_Olath: i have two egg warmeres
-
-[9:03 PM]
-
-2019:|Duradae_Olath shows them
-
-[9:05 PM]
-
-2019:~Fran the Butcher of Qylia: do we have to fight anymore peeps?))
-
-[9:05 PM]
-
-2019:|Ela laughs "Come, beakbone, let's do a blinking contest........................... awwww I ALWAYS lose...."
-
-[9:05 PM]
-
-2019:~One_Eye the Chieftain: )not unless you start something
-
-[9:05 PM]
-
-2019:|Scinthia_NReth pulls out an blue illuminous dark elf treat - she pops it in her mouth and you hear the cracking and a large pop of something puss filled bursting in her mouth
-
-[9:05 PM]
-
-2019:~Fran the Butcher of Qylia: maybe I'll start something xD))
-
-[9:05 PM]
-
-2019:~One_Eye the Chieftain: (((feel free
-
-[9:05 PM]
-
-2019:|Duradae_Olath wonders what that treat was
-
-[9:05 PM]
-
-2019:~One_Eye the Chieftain: (if it involves my cultis or Hulking please let me know first in whisper
-
-[9:06 PM]
-
-2019:~Fran the Butcher of Qylia: Connesso con MineChat
-
-[9:06 PM]
-
-2019:~Fran the Butcher of Qylia: gotta go to eat)) Im using minechat
-
-[9:06 PM]
-
-2019:|Duradae_Olath tries to catch up as fast as he can
-
-[9:06 PM]
-
-2019:~One_Eye the Chieftain: (kk
-
-[9:06 PM]
-
-2019:|Ferox_Ragash sits down and rests the odd egg in her lap
-
-[9:07 PM]
-
-2019:|Scinthia_NReth comes into distance pulling some old sack full of bodies or bones, you're not quite sure
-
-[9:07 PM]
-
-2019:~Scinthia_NReth: sorry im here
-
-[9:07 PM]
-
-2019:|Duradae_Olath wonders why she needs that bag of corpses
-
-[9:07 PM]
-
-2019:|Fran with her cloak coated in red looks at the cultist
-
-[9:07 PM]
-
-2019:|Scinthia_NReth wipes her forehead
-
-[9:08 PM]
-
-2019:|Duradae_Olath wonders what ela is hiding
-
-[9:08 PM]
-
-2019:|Scinthia_NReth bows
-
-[9:09 PM]
-
-2019:|One_Eye lumbers forward. "Me find five.
-
-[9:09 PM]
-
-2019:|Ela touches Fran's cloak, and licks her finger, loudly smacking at the kenku blood "eww.. too tart"
-
-[9:09 PM]
-
-2019:~Scinthia_NReth: i found one, but its rather nice compared to theirs
-
-[9:09 PM]
-
-2019:|Hulking_Figure picks up the items
-
-[9:10 PM]
-
-2019:|Scinthia_NReth smiles 'Quality over Quantity dear'
-
-[9:10 PM]
-
-2019:|Fran frowns and look at ela "dont do that again"
-
-[9:11 PM]
-
-2019:|Scinthia_NReth points at the person she gave it to
-
-[9:11 PM]
-
-2019:~Fran the Butcher of Qylia: wait))
-
-[9:11 PM]
-
-2019:|Duradae_Olath gives up on trying to understand the cultist
-
-[9:11 PM]
-
-2019:~Fran the Butcher of Qylia: i havve 5 ))
-
-[9:12 PM]
-
-2019:|Ferox_Ragash watches the Cultist carefully
-
-[9:12 PM]
-
-2019:~Fran the Butcher of Qylia: yup))
-
-[9:12 PM]
-
-2019:|Fran hands over her egg war.ers
-
-[9:12 PM]
-
-2019:~Fran the Butcher of Qylia: warmers*
-
-[9:13 PM]
-
-2019:|Duradae_Olath wonders if he should give the cultist his egg warmers
-
-[9:13 PM]
-
-2019:|Scinthia_NReth glares at the others
-
-[9:13 PM]
-
-2019:~Scinthia_NReth: Im sure we have more
-
-[9:13 PM]
-
-2019:|Scinthia_NReth laughs nervously
-
-[9:14 PM]
-
-2019:|One_Eye rumbles in annoyance.
-
-[9:14 PM]
-
-2019:|Fran looks at the cultist " I wouldnt do that"
-
-[9:14 PM]
-
-2019:~One_Eye the Chieftain: You no attack with you guard. We have.
-
-[9:14 PM]
-
-2019:|Duradae_Olath wonder why ela was shooting at the hulking figure, then proceeds to attempt to dodge a barage of arrows
-
-[9:14 PM]
-
-2019:~One_Eye the Chieftain: All, give egg thingiez.
-
-[9:15 PM]
-
-2019:|Duradae_Olath hands two egg warmers to the cultist
-
-[9:16 PM]
-
-2019:|Duradae_Olath makes a mental note to learn gialon
-
-[9:16 PM]
-
-2019:~Scinthia_NReth: such a nice round number dont you think?
-
-[9:16 PM]
-
-2019:~Ferox_Ragash the Weary: What you do with eggy warmers?
-
-[9:16 PM]
-
-2019:|Hulking_Figure lumbers forward and hands one warmer to Ferox with caution.
-
-[9:16 PM]
-
-2019:|Ela makes a mental note to learn Gialon, then changes her mind as it sounds hard
-
-[9:17 PM]
-
-2019:|Ferox_Ragash takes the warmer carefully, placing the strange egg in it.
-
-[9:17 PM]
-
-2019:|Scinthia_NReth looks at his pet wondering why it is doing things of its own accord, she glares at it then looks back
-
-[9:17 PM]
-
-2019:|Duradae_Olath wonders if the scinthia's skelleton would still move and fight if he pulled of its head
-
-[9:18 PM]
-
-2019:|Ferox_Ragash looks a bit skeptically at the Cultist, but watches in silence
-
-[9:18 PM]
-
-2019:|Ela tugs some life from a nearby stranger and winks at her as she runs away
-
-[9:18 PM]
-
-2019:~Fran the Butcher of Qylia: speedrunned dinner xD))
-
-[9:18 PM]
-
-2019:~Scinthia_NReth: who is this duke
-
-[9:19 PM]
-
-2019:|Scinthia_NReth ponders
-
-[9:19 PM]
-
-2019:|Duradae_Olath sits down, tired from the days work
-
-[9:20 PM]
-
-2019:~Scinthia_NReth: Revolution over what?
-
-[9:20 PM]
-
-2019:|Ela pulls out a dark red concoction and smiles mischeviously as she takes a sip
-
-[9:20 PM]
-
-2019:~Scinthia_NReth: Oh now there are four of them
-
-[9:20 PM]
-
-2019:|Ela perks up at the sound of a revolution
-
-[9:21 PM]
-
-2019:~Scinthia_NReth: Well i do hope you will put in a good word for us dear
-
-[9:21 PM]
-
-2019:|Scinthia_NReth wafts away the flies gathering over her bag 'Maybe one day, he might grant us an audience? Now we have shown how capable we are?'
-
-[9:22 PM]
-
-2019:~Duradae_Olath: hey scinthia, whats this about a revolution?
-
-[9:22 PM]
-
-2019:|Hulking_Figure looks at Ferox and makes a horrible sound. It is the sound of someone breathing out through frayed vocal cords. There are no words. Just a tattered groaning sound.
-
-[9:22 PM]
-
-2019:~Ferox_Ragash the Weary: Do me know you?
-
-[9:22 PM]
-
-2019:|Scinthia_NReth whispers quitely towards duradae 'Something he said' she points at the cultist
-
-[9:22 PM]
-
-2019:|Ferox_Ragash stands and tucks the egg and warmer under her large arm
-
-[9:22 PM]
-
-2019:|Hulking_Figure does not respond because the cultist holds out a hand to stop the figure from doing anything more.
-
-[9:23 PM]
-
-2019:~Fran the Butcher of Qylia: just say thanks that I'm mentored down e.e))
-
-[9:23 PM]
-
-2019:|Duradae_Olath whispers back "i dont understand him tho", he quietly laughs
-
-[9:23 PM]
-
-2019:|Ferox_Ragash looks to the Cultist. "You call me orctress..and big person want speak. Let speak..."
-
-[9:23 PM]
-
-2019:~Scinthia_NReth: Something about a duke dear, hes starting a revolution for the undead
-
-[9:23 PM]
-
-2019:|Ferox_Ragash slowly walks forward to the pair
-
-[9:23 PM]
-
-2019:~Duradae_Olath: ahhh
-
-[9:24 PM]
-
-2019:|Duradae_Olath gets intimitated by ferox's glowing red eyes
-
-[9:24 PM]
-
-2019:|Hulking_Figure turns his huge head toward the Orctress but makes no sound.
-
-[9:25 PM]
-
-2019:~Ferox_Ragash the Weary: You free to speak to me...if can
-
-[9:25 PM]
-
-2019:|Hulking_Figure looks at the cultist then back. It lets out another horrible hissing, grating sound that is a terrible immitaion of speech.
-
-[9:25 PM]
-
-2019:~Ferox_Ragash the Weary: You sound in pain
-
-[9:26 PM]
-
-2019:|Hulking_Figure shakes his head no.
-
-[9:26 PM]
-
-2019:~Ferox_Ragash the Weary: So you no in pain?
-
-[9:26 PM]
-
-2019:|Hulking_Figure shakes its head no.
-
-[9:26 PM]
-
-2019:|Scinthia_NReth laughs nervously for her companions
-
-[9:27 PM]
-
-2019:~Ferox_Ragash the Weary: You happy? You free?
-
-[9:27 PM]
-
-2019:|Hulking_Figure stares at Ferox unmoving.
-
-[9:27 PM]
-
-2019:|One_Eye moves to Ferox and puts his hand on her shoulder.
-
-[9:28 PM]
-
-2019:|One_Eye whispers, "You no look with eyes. You look with spirit."
-
-[9:28 PM]
-
-2019:|Duradae_Olath glances between the hulking figure and the orctress nervously
-
-[9:29 PM]
-
-2019:|One_Eye walks calmly up to the hulking figure and stares it in the face for a time. Then nods and walks away into the forest
-
-[9:29 PM]
-
-2019:|Ferox_Ragash shakes her head as her eyes tingle as One Eye allows her to look with the spirits.
-
-[9:29 PM]
-
-2019:~Fran the Butcher of Qylia: is everyone looking at ferox and hulking figure?))
-
-[9:29 PM]
-
-2019:|Ferox_Ragash she grumbles, frustrated and confused
-
-[9:29 PM]
-
-2019:|Fran becomes invisible
-
-[9:30 PM]
-
-2019:|Duradae_Olath gets slightly bored, so he looks over his companions and tries to notice anything intreaging
-
-[9:30 PM]
-
-2019:|Ferox_Ragash looks to the Cultist. "Who say to call me Orctress.."
-
-[9:31 PM]
-
-2019:|Scinthia_NReth wafts an ever growing amount of flies away from her bag of bodies
-
-[9:31 PM]
-
-2019:|Fran moves while invisible and looks around to see if someone can see her and notes down the people
-
-[9:31 PM]
-
-2019:|Duradae_Olath notices a knife in solingkey's hand, and backs away a little
-
-[9:32 PM]
-
-2019:|Scinthia_NReth smiles as she pulls the bag by 'Well, this has been lovely, but i must get these back to my menagerie'
-
-[9:32 PM]
-
-2019:~Scinthia_NReth: cheerio everyone
-
-[9:32 PM]
-
-2019:|Duradae_Olath wonders about the ratio of flies to bodyparts in scinthias bag
-
-[9:34 PM]
-
-2019:~Ela the Nightwalker: I have no idea what any of you are saying
-
-[9:34 PM]
-
-2019:|Duradae_Olath notices father branen off in the distance, and wonders why he now looks like a dark elf.....
-
-[9:34 PM]
-
-2019:~Fran the Butcher of Qylia: does the cultist have see inv?))
-
-[9:34 PM]
-
-2019:|Ferox_Ragash growls, but backs away slowly, still concerned and frustrated
-
-[9:35 PM]
-
-2019:|Duradae_Olath decides to jump a zerzura scout that is loitering nearby
-
-[9:38 PM]
-
-2019:|Duradae_Olath wonders if he should tell anyone what he heard in the good event earlier when he snuck by it, but then remembers that he heard nothing of importance
-
-[9:39 PM]
-
-2019:|Ela laughs out loud for no apparent reason
-
-[9:39 PM]
-
-2019:|Duradae_Olath looks at ela, wonders what she laughed about
-
-[9:39 PM]
-
-2019:|Fran from the shadows looks at the cultist and waits
-
-[9:40 PM]
-
-2019:|Ela shuffles her cards again and looks for someone to ask the dead about
-
-[9:40 PM]
-
-2019:|Ferox_Ragash allows her eyes to wander over the group, her eyes only pausing on Fran for a second
-
-[9:40 PM]
-
-2019:~Fran the Butcher of Qylia: good, I'm following them))
+(1173):2019:~Fran the Butcher of Qylia: good, I'm following them))
