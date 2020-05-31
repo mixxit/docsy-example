@@ -282,6 +282,10 @@ If the journey is a long one, stock up on rations so you don't get stuck in the 
 
 http://play.fallofanempire.com:8123
 
+### Events
+
+https://calendar.google.com/calendar/embed?src=p6g7v8t6ibujn399iu8lmd0k0g@group.calendar.google.com&pli=1
+
 ### Anything else
 
 To fight bots and spammers and toxic players we store and use your IP address for filtering purposes
