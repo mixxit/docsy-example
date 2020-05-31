@@ -12,6 +12,8 @@ description: >
 Raising an Egg
 {{% /pageinfo %}}
 
+A mysterious cultist and armed guard requisition Egg Warmers from the city of Zerzura
+
 # Chat Text
 
 2019:|Ela smirks at the strangers and slowly shuffles her cards
