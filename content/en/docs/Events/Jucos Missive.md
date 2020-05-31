@@ -346,3 +346,188 @@ This event saw players meet with the Bullywugs of Pollywog Hollow on behalf of E
 
 2019:|Silternius nods and smiles "Thank you friend, we must all work together to ensure these lands remain free from darkness. I will see to it personally that this assistance is not squandered
 
+2019:|Silternius leaves the tent and joins the others
+
+2019:~Ray: silt, can I roll perception?))
+
+2019:~Ray: for the fake smile))
+
+2019:|Father_Branan shows his priestly book at the %t
+
+2019:|Father_Branan nods and smiles, they seem to appreciate each other for a moment - he places his hand on the shoulder of the frog and thanks him, leaving the tent
+
+2019:~Duradae_Olath: security
+
+2019:~Duradae_Olath: aski
+
+2019:~Reggie_Luthier the Companion: So, ready to head back to tell Juco the good news?
+
+2019:~Father_Branan: I believe so
+
+2019:~Silternius the Vindicator: Alright friends, It's been a long day, let's return and give the good news to Juco
+
+2019:|Reggie_Luthier suddenly stops in the shade of the trees as a string breaks on his lute.
+
+2019:~Reggie_Luthier the Companion: Hey friends, I just need a minute.
+
+2019:|Reggie_Luthier starts replacing his string.
+
+2019:|Father_Branan nods, he pulls out some bread from his pack
+
+2019:|Silternius sits on the side of the road to catch his breath
+
+2019:|Reggie_Luthier mumbles about how dark it is.
+
+2019:~Reggie_Luthier the Companion: Thats better.
+
+2019:~Father_Branan: Wow!
+
+2019:~Father_Branan: it's like a summers day in the vale
+
+2019:|Reggie_Luthier continues repairing his string, but it is easier now that he can see.
+
+2019:|Reggie_Luthier winks at the cleric as he sings a quiet song.
+
+2019:|Syvis smiles happy she could help
+
+2019:~Father_Branan: Hmm who is that
+
+2019:|Silternius looks around at the figures advancing around them
+
+2019:~Reggie_Luthier the Companion: Hello there friends.
+
+2019:~Silternius the Vindicator: hello friends
+
+2019:~Reggie_Luthier the Companion: Nice ... robes...
+
+2019:|Father_Branan mutters something to enruel
+
+2019:|Syvis turns around and lets out a high scream as someone in robes with a weapon suddenly appears behind her
+
+2019:~Reggie_Luthier the Companion: You shouldn't sneak up on people like that, friends.
+
+2019:|Reggie_Luthier shakes his head like he doesn't understand.
+
+2019:|Syvis looks at the person hidden beneath cloaks and slowely walks backwards
+
+2019:~Reggie_Luthier the Companion: I'm afraid I don't speak creepy cloaked figure.
+
+2019:~Father_Branan: they appear to be sacrificing someone!
+
+2019:~Ray: I'm invsibile))
+
+2019:|Reggie_Luthier sings a strange new song.
+
+2019:|Reggie_Luthier stops his song with a disappointed expression.
+
+2019:~Father_Branan: augh!
+
+2019:~Reggie_Luthier the Companion: Hey, stop that!
+
+2019:|Father_Branan mutters 'Enruel hold them still!'
+
+2019:|Silternius stretches forth his hand and begins conjuring a torrent of flame from the ground
+
+2019:|Syvis runs away from the cultist trying not to trip over the roots
+
+2019:~Silternius the Vindicator: is everyone alright?
+
+2019:|Father_Branan looks around in the dark
+
+2019:~Reggie_Luthier the Companion: You know it didn't have to end this way, friend.
+
+2019:|Father_Branan feels about for his book
+
+2019:|Reggie_Luthier looks sadly at the bodies around them.
+
+2019:~Silternius the Vindicator: is everyone alright??
+
+2019:|Reggie_Luthier sings a soothing song
+
+2019:|Syvis runs into the shadow of a tree and curls up in a ball trying to hide herself as she gets flashbacks
+
+2019:|Father_Branan the darkness came back during the attack
+
+2019:~Silternius the Vindicator: hey
+
+2019:|Ray nods "so this is what happened..."
+
+2019:~Silternius the Vindicator: friend, it's ok. They're gone now
+
+2019:~Reggie_Luthier the Companion: Usually I would just run from enemies like that, but not when they are attacking my traveling companions.
+
+2019:|Father_Branan looks at the bodies 'Why would they do this to us? What had we done?'
+
+2019:~Silternius the Vindicator: you can come join us, we need to head back to safety. it's not safe in these woods
+
+2019:~Reggie_Luthier the Companion: Yea, let's head back.
+
+2019:|Reggie_Luthier shouts, Come on Syvis. Time to head back.
+
+2019:|Syvis slowely looks up and says in a scared voice ''Are they gone ?''
+
+2019:~Syvis the Vanquisher: Are you sure there aren't any more hiding in the branches of the trees ?
+
+2019:|Father_Branan nods 'We are safe, The Gods will always protect those in need'
+
+2019:~Silternius the Vindicator: the outlaws and vagabonds roaming these woods need not reason to attack. Perhaps they wanted our money, or they thought we were delivering good to ezro, it almost sounded like they were cultists trying to obtain a sacrifice for some evil purpose
+
+2019:~Syvis the Vanquisher: Are you sure there aren't any more hiding in the branches of the trees ?
+
+2019:~Silternius the Vindicator: they mentioned something about wanting our bodies as hosts
+
+2019:|Silternius shudders
+
+2019:~Silternius the Vindicator: let's continue on, no good will come of staying here
+
+2019:~Reggie_Luthier the Companion: Don't get me wrong, I'd have let them use my body for any number of fun things. But not like that. No siree.
+
+2019:~Father_Branan: a good idea, it is dark here and i am not familiar with this place
+
+2019:~Father_Branan: you seem to know this place quite well, are you a tracker?
+
+2019:~Reggie_Luthier the Companion: I dabble, yea
+
+2019:~Father_Branan: we are lucky to have you
+
+2019:|Silternius looks at the priest and is grateful for his divine abilities, wondering which deity has such influence in these lands
+
+2019:|Ray thinks back to the battle {my charm wasn't good enough}
+
+2019:|Father_Branan smiles 'Who can know how far the influence of the God of Secrets can go? Perhaps there is no limit'
+
+2019:~Syvis the Vanquisher: ((i have to go in like 15 minutes
+
+2019:|Father_Branan points 'You appear to have dropped some jewelry'
+
+2019:|Silternius smiles in amazement. Enchanter's mind trick? perhaps. More likely a divine connection. fascinating.
+
+2019:~Reggie_Luthier the Companion: Too right, we were. We did it!
+
+2019:|Reggie_Luthier looks entirely too self-satisfied.
+
+2019:~Father_Branan: this forest needs more lighting
+
+2019:~Father_Branan: we were jumped by some strange people in the darkness
+
+2019:~Reggie_Luthier the Companion: They froggies said they would hop right on over with some 'o their best fighter types.
+
+2019:|Syvis walks to the corner of the room and puts her back against the wall constantly looking through the windows to make sure no more cultists are left
+
+2019:|Silternius sees Syvis acting nervous by the window
+
+2019:~Ray: nice))
+
+2019:~Silternius the Vindicator: It's ok, they're gone now, you're safe.
+
+2019:|Father_Branan does not feel hungry for once in his life
+
+2019:|Father_Branan places a map on the table of Juco, 'as you promised, i am looking for a place of fungus' please mark it for me
+
+2019:~Father_Branan: thank you
+
+2019:|Father_Branan smiles
+
+2019:|Father_Branan smiles and nods to people 'i hope we can meet again'
+
+
