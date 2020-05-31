@@ -284,6 +284,8 @@ http://play.fallofanempire.com:8123
 
 ### Anything else
 
+To fight bots and spammers and toxic players we store and use your IP address for filtering purposes
+
 ## HELP
 
 Any help, please ask in /ooc <msg> or [come by our discord](https://discord.gg/4FYXka5)
