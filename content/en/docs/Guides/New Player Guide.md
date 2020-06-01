@@ -220,6 +220,10 @@ The easiest way to earn starter gear is via the medallion quests found outside m
 
 Each class provides a number of Skills for your character to learn using /skills Skills range from language to magic and melee skills and affect how various mechanics work in Fall of an Empire. These are generally damage modifiers, resists and other passive 'always on' effects. Skills have a limited value that generally is determined by your level and for resists can be raised by certain special items. 
 
+## Racial Passives
+
+Races gain bonuses to passive abilities, see each race page for more details. To toggle off racial passives use /togglepassive
+
 ## Abilities and Spells
 
 Abilities and Spells are items that can be found in game that look like enchanted books. There are hundreds of abilities that have all manner of effects from beneficial to destructive or even utility. Abilities can be purchased from most Profession Guilds in large NPC cities, special abilities can also be found on monsters throughout the world and hidden vendors scattered around Solinia.
