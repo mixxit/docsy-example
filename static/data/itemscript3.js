@@ -109,14 +109,20 @@ let hoverLinks = document.querySelectorAll("a.hoverToLink");
               "=": "$eq",
               "regex": "$regex"
             };
+
+	    let filter = "':{'" + test[criteria[i]] + "':";
+	    let filval = values[i];
+console.log(criteria[i]);
+	    if (criteria[i] === "regex") {
+	     filval = "'"+filval+"'"; 
+	    }
+
             urlParam +=
               "&filter={'" +
               keys[i] +
-              "':{'" +
-              test[criteria[i]] +
-              "':'" +
-              values[i] +
-              "'}}";
+              filter +
+              filval
+		+"}}";
           
         }
       }
