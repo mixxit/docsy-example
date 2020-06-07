@@ -15,6 +15,7 @@ Welcome to the Voting page
 # Open all sites at once [Firefox]
 
 <a href="#" onclick="
+window.open('http://www.minecraftroleplayservers.com/server-fall-of-an-empire.15');
 window.open('https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/');
 window.open('https://minecraft-mp.com/server/118059/vote/');
 window.open('https://minecraftlist.org/vote/5962');
@@ -27,6 +28,8 @@ window.open('https://topminecraftservers.org/vote/11735');
 ">Click here to open all the pages below, at once</a>
 
 # Individual Sites
+
+http://www.minecraftroleplayservers.com/server-fall-of-an-empire.15
 
 https://www.planetminecraft.com/server/fall-of-an-empire-heavyrp/vote/
 
