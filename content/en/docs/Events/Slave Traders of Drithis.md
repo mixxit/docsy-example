@@ -35,3 +35,109 @@ Or I can let you free, and trust Yarik knows what he is doing. Hmm....
 Yes, perhaps I will give you one more chance
 
 Once we have dealt with the riots, Drithis is at your disposal, now I must return to the palace
+
+
+# Chat Log (Missing NPC text)
+
+
+Server
+BOT
+06/02/2020
+2019:~One_Eye the Chieftain: Oh ho ho. Looky who it is!
+[10:54 PM]
+2019:|Ferox_Ragash holds on to the beer, not drinking it
+[10:54 PM]
+2019:|One_Eye continues to stumble
+[10:54 PM]
+2019:|One_Eye shrugs. "maybe yes. Maybe no."
+[10:54 PM]
+2019:|One_Eye walks toward the inner city, but sort of angles off to the side.
+[10:55 PM]
+2019:~One_Eye the Chieftain: This is good city. Strong. Good beer.
+[10:57 PM]
+2019:~One_Eye the Chieftain: Yep, i'll take some of your hopitity
+[10:57 PM]
+2019:~One_Eye the Chieftain: Hop tittie?
+[10:58 PM]
+2019:~Ailin_Darkashe the Deadly Needle: :O ))
+[10:58 PM]
+2019:~One_Eye the Honoured Guest: Yes I will take some of your tittie
+[10:58 PM]
+2019:~Ailin_Darkashe the Slayer of Tunare: I like more this tbh))
+[10:59 PM]
+2019:~One_Eye the Honoured Guest: I'm hungry.
+[10:59 PM]
+2019:|Ailin_Darkashe smiles to the captain and nods "thank you"
+[10:59 PM]
+2019:~One_Eye the Honoured Guest: Frog meat.
+[10:59 PM]
+2019:~One_Eye the Honoured Guest: Where's that sword frog?
+[11:00 PM]
+2019:~One_Eye the Honoured Guest: Watch out for the butt. Sharp.
+[11:01 PM]
+2019:~Anduriel the Hunter of Kenku: drink the grog jay
+[11:01 PM]
+2019:|One_Eye chomps on the meat happily.
+[11:01 PM]
+2019:~One_Eye the Honoured Guest: Tasty. Not so much talky now.
+[11:02 PM]
+2019:|One_Eye nods.
+[11:02 PM]
+2019:~One_Eye the Honoured Guest: Yes, bed. Iz good.
+[11:02 PM]
+2019:|One_Eye shrugs.
+[11:03 PM]
+2019:~One_Eye the Honoured Guest: Maybe can help.
+[11:03 PM]
+2019:~One_Eye the Honoured Guest: Me good with peepul.
+[11:03 PM]
+2019:~Iron_Dragon: jay how do i get to our base? lol
+[11:03 PM]
+2019:~Anduriel the Hunter of Kenku: nice
+[11:03 PM]
+2019:~Anduriel the Hunter of Kenku: lvl 13
+[11:03 PM]
+2019:|One_Eye shakes his head no.
+[11:04 PM]
+2019:~Jay_Asmarth the Vipers Bane: I'm lvl 14
+[11:04 PM]
+2019:~Anduriel the Hunter of Kenku: the cooks over here
+[11:04 PM]
+2019:~Ferox_Ragash the Orctress: Me ok. Would like home
+[11:04 PM]
+2019:~Ailin_Darkashe the Honoured Guest: do you know a good female rogue, she should be a gialon I think
+[11:04 PM]
+2019:~Iron_Dragon: jay?
+[11:04 PM]
+2019:~Estrela: this way, i will take you to the spires
+[11:05 PM]
+2019:~Ailin_Darkashe the Honoured Guest: the city guard knows how to speak orc))
+[11:05 PM]
+2019:~Estrela: I may be able to help you with that, but first let us see to your journey home
+[11:05 PM]
+2019:|Ailin_Darkashe nods "where can I find them?"
+[11:05 PM]
+2019:~Estrela: I am a member of the Dark Water Blades
+[11:07 PM]
+2019:~Anduriel the Hunter of Kenku: found someone
+[11:07 PM]
+2019:|One_Eye farts one last time.
+[11:08 PM]
+2019:~Estrela: This is where we part ways, however if you need me please speak to an anushi contact we have at the tavern in Tanqara
+[11:08 PM]
+2019:~Estrela: Tell him you are working for Estrela
+[11:08 PM]
+2019:~Estrela: You can find him generally playing poker
+[11:08 PM]
+2019:|Ailin_Darkashe nods
+[11:08 PM]
+2019:|Ferox_Ragash nods carefully
+[11:08 PM]
+2019:|One_Eye nods
+[11:08 PM]
+2019:|Duradae_Olath sighs in relief as he finaly gets out of the caves below the dreadspore village
+[11:08 PM]
+2019:~Estrela: Good luck on your assignment, I will speak to you all again I am sure
+[11:08 PM]
+2019:|Estrela dissapears into a portal
+[11:10 PM]
