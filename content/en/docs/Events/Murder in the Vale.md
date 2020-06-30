@@ -14,6 +14,85 @@ Murder in the Vale
 
 The Adventurers continue their search for the Earthbreaker
 
+# Event Notes
+
+The Aerindal 
+
+Strange Aerindal, needed a place to stay, stayed for one week, two nights ago went missing not long after another stranger took a room
+
+## THE FADED
+
+A fairy, one of the faded, came to stay two nights ago, never saw either of them again
+
+## THE ROOM
+
+It looks like there was a struggle
+
+The room is covered in blood and items are thrown about
+
+If the room is searched
+
+a box of dwarvish design appears to be underneith the bed, it is open and has the a symbol with the words Clan Ironfist written in a circle in what looks to be deep tongue
+
+A prayer book to Aer'Aral, two pages are ripped out of the middle, there are scribbles down the left and write of the passages, you do not recognise the tongue
+
+## THE OTHERS ROOM
+
+The room is well kept, there are some coins on the dresser but nothing of note
+
+## THE BODY
+
+The body is that of a faded, fairy.
+
+## If the body is searched: 
+
+* A note, it is very soggy, if words can be made out it seems to have been written by the Lord of the Summit
+
+* A Faded's Dagger
+
+## Enchanter Yumi
+
+Yes i saw him, but i dont want trouble
+
+He wasnt a fairy, and he wasnt an Aerindal, i know that much. He was... something else
+
+## Sir Windstrom
+
+the stranger came to the church yeah, he looked worried, i think he felt some people were after him or something
+
+He stayed for hours and prayed but kept looking over his shoulder, it was weird, that night the weather was like none other id ever seen, we closed the doors when the  storm came but he insisted to leave, its like he had prayed for it or something
+
+## Arcanist Faerrift
+
+There was a storm, i was closing up when i saw some hooeded man heading east into the heart of it, i thought hes crazy, but he looked adament, he just headed out east god knows where, hope hes ok
+
+## THE TRACKS
+
+You find some tracks, they have dried in the sun and seem to be heading in the direction of east
+
+At the end of hte tracks you find a piece of paper, it is a page from the Prayer Book of Aer'Aral,
+
+
+it is a tale about a mysterious man who should not be
+
+it talks about a special door that went through and dissapeared forever
+
+there is a crewdly hand drawn map on the back of the page, it seems to be at the other side of the lake
+
+## THE OTHER SIDE OF THE LAKE
+
+You find a tree with a rectangular shaped burn in it, about the size of a door, it is hot to the touch
+
+## Barkeep Shromna
+
+He never drank, kept himself to himself, seemed to always be carrying something
+
+Vocalist Dialmo
+
+I was singing that night lots of people were here but i could hear banging on teh walls, something was happening upstairs, i think a commotion, someone came downstairs, they didnt look so healthy, they were in a rush, not sure where they went
+
+About 30 minutes later someone else came, hooded, they looked to be in a hurry, they went towards the church
+
 # Chat Text
 
 * Estrela is persiring 'Eugh, you know how long it took me to find you?' 
