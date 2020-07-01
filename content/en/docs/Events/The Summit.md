@@ -14,6 +14,94 @@ The Summit
 
 The Adventurers attempt to discover the origin of the Faded assassins body found in Rust Cap
 
+# Event Notes
+
+## BLACKSMITH XIWI
+
+Known giant slayer
+
+She has a very special hammer
+
+## ROGUE GYLIS
+
+Recognises who the dagger belongs to, not willing to talk more unless you steal an item for him from the blacksmith called Giantfell
+
+Identity is Tarnil Greywing a miner, sold it to him recently, he looked sweaty and worried
+
+[ The High Priest has his wife [Eyar Greywing] in the torture chambers ]
+
+## UNIT_XXLA
+
+Member of the Spellstorm wars but now a repurposed stamping machine
+
+Grants faction to Summit of the Fallen
+
+## HEALER TIRI
+
+Isnt Asura great? The giants have been attacking the Faded Wilds, the Summit protect them now
+
+Seems to not fully believe the words she is saying about hiran asura
+
+If pressed, her daughter will mention that she misses the dreams of her goddess, at this point an informant will run for the citadel
+
+If the informant is killed, they will receive his pass
+
+
+## BARMAID ESHOSH
+
+If pressed on anything:
+
+Ssh theres informants, some girl was dragged off the other day (EYAR GREYWING)
+
+## BARD LOARIL
+
+Sings songs about the great migration from the forest to the summit in anticipation of the return of the demigod
+
+If pressed says the song is a cover, they really fled the invading giants
+
+
+## MAYORESS ESREL
+
+Under great stress by the summit to provide food, and natural resources that the summit needs to build an army
+
+Ensures strict religious belief in hiran asura in the city, informants are reported to the Lord Alastor
+
+Knows nothing about anything in the vale
+
+Cannot let just anyone into the summit
+
+INSIDE THE SUMMIT
+
+## EYAR GREYWING
+
+Being tortured by high priest, has done nothing wrong but is being told to confess their belief in lesser gods, has done so several times but they do not believe her
+
+## PAINLORD GARYS
+
+Will not stop until every living being on the earth recognises the sovreinity of the asurasn and the worship of the only true god, Hiran Asura
+
+## LORD ALASTOR
+
+Concerned with the subjugation of local natives and the constructing an army for the return of Hiran Asura
+
+Does not know about the turning of Hiran Asura to light
+
+## ARCHWIZARD TCHORT
+
+has buitl a magical object called the Orb of Tchort, does not currently work and is unable to understand why, if he could only know where his target has gone he would be able to understand what is wrong iwth it
+
+If he is informed his target is in the planes he will adjust it and hand it to the players
+
+## PRIEST VARGYS
+
+Praises hiran asura, how the world will be brought to its knees in a second coming
+
+Truth: Is aware and dissapointed in Hiran Asuras turn towards light, looking to aquire Earthbreaker to rid the world of him and turn him into a martyr for a war against the good races of solinia
+
+Kidnapped Eyar Greywing to force Tarnil to murder the Aerindal carrying earthbreaker but he has not returned
+
+Location of Aerindal is known via soulbound orb created by Archwizard Tchort
+
 # Chat Log
 
 [30-Jun-20 07:40 PM] Server#0471
