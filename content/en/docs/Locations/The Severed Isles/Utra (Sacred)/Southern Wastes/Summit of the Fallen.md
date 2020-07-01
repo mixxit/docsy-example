@@ -16,8 +16,10 @@ The most recenty arrivals of the Wastes are the illusive Shattered Wing arm of t
 fort in the wastes not far south from the Fading Wilds. It currently unclear what the purpose of the Asurans are. Some believe the
 summit is holy place, dedicated to their God, Hiran Asura. Others are not so certain.
 
-The House of the Shattered Wing is currently led by Az'zealeif who makes his home in the summit. It appears he has been particularly
+The House of the Shattered Wing is currently led by Lord Alastor Az'zealeif who makes his home in the summit. It appears he has been particularly
 interesting in monitoring the progress of the recent survivors that crash landed on the southern coasts of the Blackfeather Plains.
+
+The Summit is surrounded by a Faded village, who have come to pay homage to the the temple in the summit and await the arrival of the demi god Hiran Asura
 
 Only time will tell what the purpose of the Asurans are on the Island and why they are so interested in those that have arrived but
 few believe that it will be benevolent
