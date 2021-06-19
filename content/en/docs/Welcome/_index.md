@@ -12,8 +12,8 @@ menu:
 Welcome to the main documentation page for Fall of an Empire.
 {{% /pageinfo %}}
 
-Here you can find the combined lore for the world of Solinia alongside all the information you require for gameplay mechanics and roleplaying successfully on Fall of an Empire
+After 10 long years we are now retired
 
-As a new player we recommend first reading our [New Players Guide](https://www.fallofanempire.com/docs/guides/new-player-guide/)
+Though we may be gone you can find lots of our old friends over at Anivaria
 
-Please also consider visiting our discord for instant help (See new players guide)
+https://discord.com/channels/359145879472701441/801516566050504744/801516975041282118
