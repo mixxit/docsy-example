@@ -12,8 +12,6 @@ menu:
 Welcome to the main documentation page for Fall of an Empire.
 {{% /pageinfo %}}
 
-After 10 long years we are now retired
+Please find help on our New Players Guide here: https://www.fallofanempire.com/docs/guides/new-player-guide/
 
-Though we may be gone you can find lots of our old friends over at Anivaria
-
-https://discord.com/channels/359145879472701441/801516566050504744/801516975041282118
+Alternatively, you may request help on our discord: https://discord.gg/4FYXka5
