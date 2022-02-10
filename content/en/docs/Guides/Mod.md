@@ -7,4 +7,4 @@ description: >
  Mod
 ---
 
-You can now install our modpack via this page: https://www.technicpack.net/modpack/fall-of-an-empire-server.1690920
+Mod packs are now installed automatically on server join since Vintage Story 1.16, you no longer need to download them
