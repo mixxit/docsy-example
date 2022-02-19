@@ -1,7 +1,7 @@
 
 ---
 title: "Asuran"
-linkTitle: "Asuran (Playable)"
+linkTitle: "Asuran (Fallen Angel)"
 weight: 8
 date: 2017-01-04
 description: >
