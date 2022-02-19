@@ -1,7 +1,7 @@
 
 ---
 title: "Vishim"
-linkTitle: "Vishim (Playable)"
+linkTitle: "Vishim (High Elf)"
 weight: 8
 date: 2017-01-04
 description: >
