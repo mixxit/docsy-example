@@ -1,7 +1,7 @@
 
 ---
 title: "Dark Elves"
-linkTitle: "Dark Elves (Playable)"
+linkTitle: "Dark Elves"
 weight: 8
 date: 2017-01-04
 description: >
