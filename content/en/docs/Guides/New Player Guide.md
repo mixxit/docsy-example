@@ -28,4 +28,4 @@ See the survival guide on the Vintage Story Wiki - https://wiki.vintagestory.at/
 
 ## HELP
 
-Any help, please ask in /ooc <msg> or [come by our discord](https://discord.gg/4FYXka5)
+Any help, please ask in /ooc <msg> or [come by our discord](https://discord.gg/v9mx3QdTPF)
