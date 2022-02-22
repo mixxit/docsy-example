@@ -14,4 +14,4 @@ Welcome to the main documentation page for Fall of an Empire.
 
 Please find help on our New Players Guide here: https://www.fallofanempire.com/docs/guides/new-player-guide/
 
-Alternatively, you may request help on our discord: https://discord.gg/4FYXka5
+Alternatively, you may request help on our discord: https://discord.gg/v9mx3QdTPF
